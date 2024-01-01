@@ -1,667 +1,257 @@
 #EXTM3U x-tvg-url="http://195.154.221.171/epg/guideromania.xml.gz"
-#EXTINF:-1 xui-id="380659" tvg-id="" tvg-name="24/7 Narco-Saints" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mr5lPKtBNNQq-aHFfAGLKA3FebZR_vQTgQ89j83XJtEsa.png" group-title="▶️ SERIALE NETFLIX 24/7",24/7 Narco-Saints
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiGgLAfdg4C-IafD42_GXgpfJG5C1LY3jr24gODZYZs7m
-#EXTINF:-1 xui-id="380660" tvg-id="" tvg-name="24/7 Tomorrow" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mr5lPKtBNNQq-aHFfAGLKA3FebZR_vQTgQ89j83XJtEsa.png" group-title="▶️ SERIALE NETFLIX 24/7",24/7 Tomorrow
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiGgLAfdg4C-IafD42_GXgpfncZJtC758J1sz4GURUJux
-#EXTINF:-1 xui-id="383127" tvg-id="" tvg-name="( OnePlay ) Nicolae Guta" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ SERIALE TV 24/7",( OnePlay ) Nicolae Guta
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiNe7pRmB7q3MOCYPDQCs_Zp91fI4PDplHIspPluQsgeL
-#EXTINF:-1 xui-id="383128" tvg-id="" tvg-name="( OnePlay ) PRO Vlad" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ SERIALE TV 24/7",( OnePlay ) PRO Vlad
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiNe7pRmB7q3MOCYPDQCs_Zp71IRjC2RfHTCAc6tdipp9
-#EXTINF:-1 xui-id="383129" tvg-id="" tvg-name="( OnePlay ) IMPACT BAIETI DE ORAS" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ SERIALE TV 24/7",( OnePlay ) IMPACT BAIETI DE ORAS
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiNe7pRmB7q3MOCYPDQCs_Zo5FrRbmKBPg6ju9ZmZvL5I
-#EXTINF:-1 xui-id="383130" tvg-id="" tvg-name="( OnePlay ) LUZARII" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ SERIALE TV 24/7",( OnePlay ) LUZARII
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiNe7pRmB7q3MOCYPDQCs_Zq2PpOVfxR06rcRGv-FtmKl
-#EXTINF:-1 xui-id="383131" tvg-id="" tvg-name="( OnePlay ) FluxRO MANGALITA" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ SERIALE TV 24/7",( OnePlay ) FluxRO MANGALITA
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiNe7pRmB7q3MOCYPDQCs_Zp-e5sbeuuben5XEu0Fa2Ol
-#EXTINF:-1 xui-id="383132" tvg-id="" tvg-name="( OnePlay ) FluxRO BAIETI DE ORAS" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ SERIALE TV 24/7",( OnePlay ) FluxRO BAIETI DE ORAS
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiNe7pRmB7q3MOCYPDQCs_ZqhLv_8jXXCb_dFpkxUy7JM
-#EXTINF:-1 xui-id="383133" tvg-id="" tvg-name="( OnePlay ) FluxRO DOI DEGEABA" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ SERIALE TV 24/7",( OnePlay ) FluxRO DOI DEGEABA
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiNe7pRmB7q3MOCYPDQCs_Zoa1tkRAnl7oqz85RoUufJ0
-#EXTINF:-1 xui-id="383134" tvg-id="" tvg-name="( OnePlay ) FLUX Ro ADELA" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ SERIALE TV 24/7",( OnePlay ) FLUX Ro ADELA
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiNe7pRmB7q3MOCYPDQCs_ZoZ9SI0taivEDAaPbJno6A3
-#EXTINF:-1 xui-id="383135" tvg-id="" tvg-name="( OnePlay ) FluxRO MR. BEAN" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ SERIALE TV 24/7",( OnePlay ) FluxRO MR. BEAN
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiNe7pRmB7q3MOCYPDQCs_ZrKW-5OVRpahnFTekecZssx
-#EXTINF:-1 xui-id="383136" tvg-id="" tvg-name="( OnePlay ) FluxRO VLAD" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ SERIALE TV 24/7",( OnePlay ) FluxRO VLAD
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiNe7pRmB7q3MOCYPDQCs_Zp9PAIj62ZDzpNAb6unYlTL
-#EXTINF:-1 xui-id="390620" tvg-id="" tvg-name="OPlayTv Dallas" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ SERIALE TV 24/7",OPlayTv Dallas
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiNSbdZV2BFI8teJpmy2aPMuv_Yp5UR2ETiGE8OdBTH0a
-#EXTINF:-1 xui-id="390621" tvg-id="" tvg-name="OPlayTv Star Trek" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ SERIALE TV 24/7",OPlayTv Star Trek
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiNSbdZV2BFI8teJpmy2aPMsafrPhvu3whcVsEJHCR380
-#EXTINF:-1 xui-id="390622" tvg-id="" tvg-name="OPlayTv Serii Mafia" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ SERIALE TV 24/7",OPlayTv Serii Mafia
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiNSbdZV2BFI8teJpmy2aPMtElByYs0lrOIKpqhMVHo9w
-#EXTINF:-1 xui-id="390623" tvg-id="" tvg-name="OPlayTv Baieti de Oras" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ SERIALE TV 24/7",OPlayTv Baieti de Oras
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiNSbdZV2BFI8teJpmy2aPMstivnEzl5c0UmlNJfi503B
-#EXTINF:-1 xui-id="390624" tvg-id="" tvg-name="OPlayTv Lost" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ SERIALE TV 24/7",OPlayTv Lost
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiNSbdZV2BFI8teJpmy2aPMtxp28AHTgdj_lrTapGGJXs
-#EXTINF:-1 xui-id="390625" tvg-id="" tvg-name="OPlayTv LA Bloc" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ SERIALE TV 24/7",OPlayTv LA Bloc
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiNSbdZV2BFI8teJpmy2aPMs-w3Xiuj00X7OT8yY7r-bg
-#EXTINF:-1 xui-id="390626" tvg-id="" tvg-name="OPlayTv Cartea Cartilor" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ SERIALE TV 24/7",OPlayTv Cartea Cartilor
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiNSbdZV2BFI8teJpmy2aPMt2hKyXd3JcWON1cVRR-7lq
-#EXTINF:-1 xui-id="390627" tvg-id="" tvg-name="OPlayTv The Simpsons" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ SERIALE TV 24/7",OPlayTv The Simpsons
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiNSbdZV2BFI8teJpmy2aPMuKe_kXAAzO3WpUOydrPle7
-#EXTINF:-1 xui-id="390628" tvg-id="" tvg-name="OPlayTv Columbo" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ SERIALE TV 24/7",OPlayTv Columbo
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiNSbdZV2BFI8teJpmy2aPMuYGdOKjR9kNGXhj5-YXXfo
-#EXTINF:-1 xui-id="390629" tvg-id="" tvg-name="OPlayTv Seriale Turcesti" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ SERIALE TV 24/7",OPlayTv Seriale Turcesti
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiNSbdZV2BFI8teJpmy2aPMtDhlG9lXHU-zp4An_FGAOx
-#EXTINF:-1 xui-id="390630" tvg-id="" tvg-name="OPlayTv Two And a Half Men" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ SERIALE TV 24/7",OPlayTv Two And a Half Men
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiNSbdZV2BFI8teJpmy2aPMvB3FK-01syjn3eblJEFftL
-#EXTINF:-1 xui-id="390631" tvg-id="" tvg-name="OPlayTv Friends" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ SERIALE TV 24/7",OPlayTv Friends
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiNSbdZV2BFI8teJpmy2aPMv0NqSkVox9c0k12A2yqMlD
-#EXTINF:-1 xui-id="390632" tvg-id="" tvg-name="OPlayTv Seinfeld" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ SERIALE TV 24/7",OPlayTv Seinfeld
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiNSbdZV2BFI8teJpmy2aPMvZpARXGaHSaaiT9-r5OUE-
-#EXTINF:-1 xui-id="390633" tvg-id="" tvg-name="OPlayTv Just For Laughs Gags" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ SERIALE TV 24/7",OPlayTv Just For Laughs Gags
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiNSbdZV2BFI8teJpmy2aPMspQN5ei7DNxjH_HjJ0ph7A
-#EXTINF:-1 xui-id="390634" tvg-id="" tvg-name="OPlayTv MR Been & Benny Hill" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ SERIALE TV 24/7",OPlayTv MR Been & Benny Hill
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiNSbdZV2BFI8teJpmy2aPMuM7gtE4oGbphiphy_7LnZ4
-#EXTINF:-1 xui-id="390635" tvg-id="" tvg-name="OPlayTv Suleyman Magnificul" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ SERIALE TV 24/7",OPlayTv Suleyman Magnificul
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiNSbdZV2BFI8teJpmy2aPMslxCgQagvcSPjVLgbllRHO
-#EXTINF:-1 xui-id="390636" tvg-id="" tvg-name="OPlayTv Vikings" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ SERIALE TV 24/7",OPlayTv Vikings
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiNSbdZV2BFI8teJpmy2aPMsXDynE8J0NSd-qZZ0paRO9
-#EXTINF:-1 xui-id="390637" tvg-id="" tvg-name="OPlayTv Peaky Blinders" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ SERIALE TV 24/7",OPlayTv Peaky Blinders
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiNSbdZV2BFI8teJpmy2aPMses94YetcFaTsBqMW_CEYC
-#EXTINF:-1 xui-id="390638" tvg-id="" tvg-name="OPlayTv Prison Break" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ SERIALE TV 24/7",OPlayTv Prison Break
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiNSbdZV2BFI8teJpmy2aPMsaB2TAG2UQ6AFEWyGMJzH0
-#EXTINF:-1 xui-id="390639" tvg-id="" tvg-name="OPlayTv Game of Thrones" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ SERIALE TV 24/7",OPlayTv Game of Thrones
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiNSbdZV2BFI8teJpmy2aPMuCboySc1VinSdwag1buqi6
-#EXTINF:-1 xui-id="390640" tvg-id="" tvg-name="OPlayTv Narcos" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ SERIALE TV 24/7",OPlayTv Narcos
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiNSbdZV2BFI8teJpmy2aPMsDo7ej6GGPKsck_38qZQ9F
-#EXTINF:-1 xui-id="390641" tvg-id="" tvg-name="OPlayTv Mini Serii" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ SERIALE TV 24/7",OPlayTv Mini Serii
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiNSbdZV2BFI8teJpmy2aPMvPfSL9aUgTa3nUxbbG5nNA
-#EXTINF:-1 xui-id="390642" tvg-id="" tvg-name="OPlayTv El Chapo" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ SERIALE TV 24/7",OPlayTv El Chapo
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiNSbdZV2BFI8teJpmy2aPMuweKFkrQG-DPvHDEHhOkVl
-#EXTINF:-1 xui-id="246975" tvg-id="" tvg-name="✦●✦ SPECIAL CINEMA 24/7 ✦●✦" tvg-logo="https://www.dropbox.com/scl/fi/lpoj3ezw3zmbqgkrnnjc4/1701872835785.jpg?rlkey=rjgy6nwffxzczgkac0fjnq6gj&dl=1" group-title="▶️ CINEMA TV 24/7",✦●✦ SPECIAL CINEMA 24/7 ✦●✦
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiG8d4Bup2kxzJCKofT_l40TN9D8_5HMhNCytGEJEZn2e
-#EXTINF:-1 xui-id="278188" tvg-id="" tvg-name="OstarkTv RELIGIE CINEMA" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mr5lPKtBNNQq-aHFfAGLKA3FebZR_vQTgQ89j83XJtEsa.png" group-title="▶️ CINEMA TV 24/7",OstarkTv RELIGIE CINEMA
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiMzTvpo5JZsXy05MML-Xp8JnxOjxoyZS08dT0YqbGLLf
-#EXTINF:-1 xui-id="245763" tvg-id="faracablufilmedecraciun.ro" tvg-name="FaraCablu Filme de Craciun" tvg-logo="https://www.dropbox.com/scl/fi/qaeoikgm8pucnptgsoe5l/1701746112407.png?rlkey=bdoq9z1ge76yyenw60oj7yv0v&dl=1" group-title="▶️ CINEMA TV 24/7",FaraCablu Filme de Craciun
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiGWHOHtjTYTQkpn4tW10NUzSDcypN-bBY8gqnY_ycsBQ
-#EXTINF:-1 xui-id="389157" tvg-id="faracablucinema2024.ro" tvg-name="FaraCablu CINEMA 2024" tvg-logo="https://www.dropbox.com/scl/fi/x19lci8oi12uqt5zxw8o5/nocable.png?rlkey=wimaknd73jsnxtiyra33ej228&dl=1" group-title="▶️ CINEMA TV 24/7",FaraCablu CINEMA 2024
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiG8lJ_8QG6ql8d6h7pgPV2bSR6bRUoNvJODgjsbGhKso
-#EXTINF:-1 xui-id="370274" tvg-id="" tvg-name="24/7 Terminator ( Arnold Schwarzzenegger )" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mr5lPKtBNNQq-aHFfAGLKA3FebZR_vQTgQ89j83XJtEsa.png" group-title="▶️ CINEMA TV 24/7",24/7 Terminator ( Arnold Schwarzzenegger )
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiBYVxXBmH243bWmZNs9TKfninffUPdKrwiVyJ1aaokq3
-#EXTINF:-1 xui-id="203937" tvg-id="deunaactiune.ro" tvg-name="DeUna Actiune" tvg-logo="https://www.dropbox.com/scl/fi/wkcgd7ad21nr37q8bujny/D1.actiune.png?rlkey=i4gxoa7bd53yd90yau93lryl2&dl=1" group-title="▶️ CINEMA TV 24/7",DeUna Actiune
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiFL9NV5o8kGj9WBSKkpSFexFuLXPYVUNxLMWsj29JRBA
-#EXTINF:-1 xui-id="183149" tvg-id="" tvg-name="BANG BANG PREMIERA" tvg-logo="http://ilussionm3dia.com:80/images/wyVSjgrxcoMOXbIes_13kjdMdTNUqG6G_FJhW67RSp2sIWv4-eat7Ffzw_QjJepM2fbP8-3CP_zpKo1vVHS4nMK3CtjuT4TKJeyEaNEI__I.png" group-title="▶️ CINEMA TV 24/7",BANG BANG PREMIERA
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiO2JsX11nQ5ulASvdln-uzkXTppUSS0TSOoVx-CNYTan
-#EXTINF:-1 xui-id="183150" tvg-id="" tvg-name="BANG BANG ACTIUNE" tvg-logo="http://ilussionm3dia.com:80/images/wyVSjgrxcoMOXbIes_13kjdMdTNUqG6G_FJhW67RSp2sIWv4-eat7Ffzw_QjJepM2fbP8-3CP_zpKo1vVHS4nMK3CtjuT4TKJeyEaNEI__I.png" group-title="▶️ CINEMA TV 24/7",BANG BANG ACTIUNE
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiO2JsX11nQ5ulASvdln-uzk_9qCAsBNnPssYUXS9A_4F
-#EXTINF:-1 xui-id="183151" tvg-id="" tvg-name="BANG BANG COMEDIE" tvg-logo="http://ilussionm3dia.com:80/images/wyVSjgrxcoMOXbIes_13kjdMdTNUqG6G_FJhW67RSp2sIWv4-eat7Ffzw_QjJepM2fbP8-3CP_zpKo1vVHS4nMK3CtjuT4TKJeyEaNEI__I.png" group-title="▶️ CINEMA TV 24/7",BANG BANG COMEDIE
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiO2JsX11nQ5ulASvdln-uzk2gw6A7Xqfh2v-YWmn0xPl
-#EXTINF:-1 xui-id="183152" tvg-id="" tvg-name="OnePlay PREMIERA 2022" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",OnePlay PREMIERA 2022
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiO2JsX11nQ5ulASvdln-uznG5oWkEFTGunDbn7Kt0R1m
-#EXTINF:-1 xui-id="183153" tvg-id="" tvg-name="OnePlay ACTIUNE" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",OnePlay ACTIUNE
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiO2JsX11nQ5ulASvdln-uzkSn_KIG93N37iG3Y_pweYz
-#EXTINF:-1 xui-id="183154" tvg-id="" tvg-name="OnePlay AVENTURA" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",OnePlay AVENTURA
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiO2JsX11nQ5ulASvdln-uzkXbCsVNrAe47tOx6HyGR5W
-#EXTINF:-1 xui-id="183155" tvg-id="" tvg-name="OnePlay VAN DAMME" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",OnePlay VAN DAMME
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiO2JsX11nQ5ulASvdln-uzlJ9ChGhQZIwnyO-IRiyZli
-#EXTINF:-1 xui-id="183156" tvg-id="" tvg-name="OnePlay SAMUEL L. JACKSON" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",OnePlay SAMUEL L. JACKSON
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiO2JsX11nQ5ulASvdln-uzkLw5YtkMOp1nMjH6Dp7fDN
-#EXTINF:-1 xui-id="183143" tvg-id="" tvg-name="OstarkPlay PREMIUM" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mrzo9maY5-B0nEaTOEh63bzmtzIwNMwu-h8-CRARo0e38.png" group-title="▶️ CINEMA TV 24/7",OstarkPlay PREMIUM
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiO2JsX11nQ5ulASvdln-uzm8okaRO_HzAlg8vOGJREh3
-#EXTINF:-1 xui-id="286667" tvg-id="" tvg-name="OstarkTv GOLD CINEMA" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mr5lPKtBNNQq-aHFfAGLKA3FebZR_vQTgQ89j83XJtEsa.png" group-title="▶️ CINEMA TV 24/7",OstarkTv GOLD CINEMA
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiFZCKSO8vDexeGTDHvpxiTb-kO7Vx-yWcpj6k6puf1_F
-#EXTINF:-1 xui-id="183136" tvg-id="" tvg-name="OstarkPlay CINEMA 2022" tvg-logo="http://ilussionm3dia.com:80/images/fR5meWI3Qa8BA4NTpnuqSOMvY6FiZ4FMlvOgT-ygABhI1hWa-eKAJDF9dme-iqTyJlp6ermqWjnBYfTyqI8KAcg8UVTguy1A2RfzYKMC69g.png" group-title="▶️ CINEMA TV 24/7",OstarkPlay CINEMA 2022
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiO2JsX11nQ5ulASvdln-uzkSphefn8XYuiildFW3ssQP
-#EXTINF:-1 xui-id="276406" tvg-id="" tvg-name="OstarkTV CineFilm 2022" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mr5lPKtBNNQq-aHFfAGLKA3FebZR_vQTgQ89j83XJtEsa.png" group-title="▶️ CINEMA TV 24/7",OstarkTV CineFilm 2022
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiIOZT7XCua1-JXLA4rKb6RJ9wEL3krta4V1AiATlBYkY
-#EXTINF:-1 xui-id="183130" tvg-id="" tvg-name="OstarkPlay ACTION CINEMA" tvg-logo="http://ilussionm3dia.com:80/images/fR5meWI3Qa8BA4NTpnuqSOMvY6FiZ4FMlvOgT-ygABhI1hWa-eKAJDF9dme-iqTyJlp6ermqWjnBYfTyqI8KAcg8UVTguy1A2RfzYKMC69g.png" group-title="▶️ CINEMA TV 24/7",OstarkPlay ACTION CINEMA
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiO2JsX11nQ5ulASvdln-uzkPrFlaFmfHAVbTt5ogNzwZ
-#EXTINF:-1 xui-id="183172" tvg-id="" tvg-name="OstarkPlay ACTIUNE CINEMA" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mrzo9maY5-B0nEaTOEh63bzmtzIwNMwu-h8-CRARo0e38.png" group-title="▶️ CINEMA TV 24/7",OstarkPlay ACTIUNE CINEMA
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiO2JsX11nQ5ulASvdln-uzmw_b5tBaJ96rDstElkJHJa
-#EXTINF:-1 xui-id="183132" tvg-id="" tvg-name="OstarkPlay COMEDIE" tvg-logo="http://ilussionm3dia.com:80/images/fR5meWI3Qa8BA4NTpnuqSOMvY6FiZ4FMlvOgT-ygABhI1hWa-eKAJDF9dme-iqTyJlp6ermqWjnBYfTyqI8KAcg8UVTguy1A2RfzYKMC69g.png" group-title="▶️ CINEMA TV 24/7",OstarkPlay COMEDIE
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiO2JsX11nQ5ulASvdln-uzmUmsHbEUEOGLZqc-9D_e_Z
-#EXTINF:-1 xui-id="183137" tvg-id="" tvg-name="OstarkPlay COMEDIE CINEMA" tvg-logo="http://ilussionm3dia.com:80/images/fR5meWI3Qa8BA4NTpnuqSOMvY6FiZ4FMlvOgT-ygABhI1hWa-eKAJDF9dme-iqTyJlp6ermqWjnBYfTyqI8KAcg8UVTguy1A2RfzYKMC69g.png" group-title="▶️ CINEMA TV 24/7",OstarkPlay COMEDIE CINEMA
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiO2JsX11nQ5ulASvdln-uzmlC9pIa8SMg0vSwD1WbP0E
-#EXTINF:-1 xui-id="183140" tvg-id="" tvg-name="OstarkPlay AVENTURA" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mrzo9maY5-B0nEaTOEh63bzmtzIwNMwu-h8-CRARo0e38.png" group-title="▶️ CINEMA TV 24/7",OstarkPlay AVENTURA
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiO2JsX11nQ5ulASvdln-uzl7wKBj9sjTrazEHnMSHIgj
-#EXTINF:-1 xui-id="183141" tvg-id="" tvg-name="OstarkPlay SF CINEMA" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mrzo9maY5-B0nEaTOEh63bzmtzIwNMwu-h8-CRARo0e38.png" group-title="▶️ CINEMA TV 24/7",OstarkPlay SF CINEMA
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiO2JsX11nQ5ulASvdln-uzlX1RDP_Wqw_ipXZD4Zt4Y4
-#EXTINF:-1 xui-id="183142" tvg-id="" tvg-name="OstarkPlay THRILLER CINEMA" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mrzo9maY5-B0nEaTOEh63bzmtzIwNMwu-h8-CRARo0e38.png" group-title="▶️ CINEMA TV 24/7",OstarkPlay THRILLER CINEMA
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiO2JsX11nQ5ulASvdln-uzk7QaH1e3ay7TZ301USR6bD
-#EXTINF:-1 xui-id="183133" tvg-id="" tvg-name="OstarkPlay JASON STATHAM" tvg-logo="http://ilussionm3dia.com:80/images/fR5meWI3Qa8BA4NTpnuqSOMvY6FiZ4FMlvOgT-ygABhI1hWa-eKAJDF9dme-iqTyJlp6ermqWjnBYfTyqI8KAcg8UVTguy1A2RfzYKMC69g.png" group-title="▶️ CINEMA TV 24/7",OstarkPlay JASON STATHAM
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiO2JsX11nQ5ulASvdln-uzmaHuKVgVycRRMYx8MrVFyf
-#EXTINF:-1 xui-id="183134" tvg-id="" tvg-name="OstarkPlay BRUCE LEE" tvg-logo="http://ilussionm3dia.com:80/images/fR5meWI3Qa8BA4NTpnuqSOMvY6FiZ4FMlvOgT-ygABhI1hWa-eKAJDF9dme-iqTyJlp6ermqWjnBYfTyqI8KAcg8UVTguy1A2RfzYKMC69g.png" group-title="▶️ CINEMA TV 24/7",OstarkPlay BRUCE LEE
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiO2JsX11nQ5ulASvdln-uzkCMhg3V7ig1NveAtYNbCFp
-#EXTINF:-1 xui-id="183135" tvg-id="" tvg-name="OstarkPlay ADAM SANDLER" tvg-logo="http://ilussionm3dia.com:80/images/fR5meWI3Qa8BA4NTpnuqSOMvY6FiZ4FMlvOgT-ygABhI1hWa-eKAJDF9dme-iqTyJlp6ermqWjnBYfTyqI8KAcg8UVTguy1A2RfzYKMC69g.png" group-title="▶️ CINEMA TV 24/7",OstarkPlay ADAM SANDLER
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiO2JsX11nQ5ulASvdln-uzmI-ircV3K4ztMH1ZT9amrQ
-#EXTINF:-1 xui-id="183144" tvg-id="" tvg-name="OstarkPlay VAN DAMME" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mrzo9maY5-B0nEaTOEh63bzmtzIwNMwu-h8-CRARo0e38.png" group-title="▶️ CINEMA TV 24/7",OstarkPlay VAN DAMME
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiO2JsX11nQ5ulASvdln-uzkL_ab0DqBRqYRl139GyDuV
-#EXTINF:-1 xui-id="120074" tvg-id="" tvg-name="OstarkTV CINEMA ROMANESC" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mr5lPKtBNNQq-aHFfAGLKA3FebZR_vQTgQ89j83XJtEsa.png" group-title="▶️ CINEMA TV 24/7",OstarkTV CINEMA ROMANESC
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiKxlLuPwxUUEIec3jQ9Eu3cxlyfvqSY2nLln_v1__yS-
-#EXTINF:-1 xui-id="92919" tvg-id="" tvg-name="OstarkTV CineFlix 2022" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mr5lPKtBNNQq-aHFfAGLKA3FebZR_vQTgQ89j83XJtEsa.png" group-title="▶️ CINEMA TV 24/7",OstarkTV CineFlix 2022
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiFwOBUoaBsEzrgOHOyOqqMgRPjYzfkhat38M3VHax1lo
-#EXTINF:-1 xui-id="63449" tvg-id="" tvg-name="OstarkTV CINEFLIX 01" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mr5lPKtBNNQq-aHFfAGLKA3FebZR_vQTgQ89j83XJtEsa.png" group-title="▶️ CINEMA TV 24/7",OstarkTV CINEFLIX 01
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiNc5Nn4MxStx1PzLahkO4xKqZ0tnju4xYmUvfOXz4Hk3
-#EXTINF:-1 xui-id="63454" tvg-id="" tvg-name="OstarkTV CINEFLIX 02" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mr5lPKtBNNQq-aHFfAGLKA3FebZR_vQTgQ89j83XJtEsa.png" group-title="▶️ CINEMA TV 24/7",OstarkTV CINEFLIX 02
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiJ5J_rh0O1mb8okSusXuGfcvOAFRNHsWLmsFlXXiYjX8
-#EXTINF:-1 xui-id="63453" tvg-id="" tvg-name="OstarkTV CINEFLIX 2021" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mr5lPKtBNNQq-aHFfAGLKA3FebZR_vQTgQ89j83XJtEsa.png" group-title="▶️ CINEMA TV 24/7",OstarkTV CINEFLIX 2021
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiJ5J_rh0O1mb8okSusXuGfcqGDp_QYu_tM7p6NuPI76t
-#EXTINF:-1 xui-id="81169" tvg-id="" tvg-name="OstarkTv CINEMA 2022" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mr5lPKtBNNQq-aHFfAGLKA3FebZR_vQTgQ89j83XJtEsa.png" group-title="▶️ CINEMA TV 24/7",OstarkTv CINEMA 2022
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiHBkncu8U7E9pToT_6X5REngJ35S8m1vqEFygceQCqQb
-#EXTINF:-1 xui-id="63455" tvg-id="" tvg-name="OstarkTV CINEMA 2021" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mr5lPKtBNNQq-aHFfAGLKA3FebZR_vQTgQ89j83XJtEsa.png" group-title="▶️ CINEMA TV 24/7",OstarkTV CINEMA 2021
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiJ5J_rh0O1mb8okSusXuGfcJ0SGvdXrL1Lu3YpOWX-n3
-#EXTINF:-1 xui-id="63286" tvg-id="" tvg-name="OstarkTV CINEMA 1" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mr5lPKtBNNQq-aHFfAGLKA3FebZR_vQTgQ89j83XJtEsa.png" group-title="▶️ CINEMA TV 24/7",OstarkTV CINEMA 1
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiKBiyXwyrSg0GWuyyjs2Djcu9IOw9ottd2KogONexr62
-#EXTINF:-1 xui-id="63287" tvg-id="" tvg-name="OstarkTV CINEMA 2" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mr5lPKtBNNQq-aHFfAGLKA3FebZR_vQTgQ89j83XJtEsa.png" group-title="▶️ CINEMA TV 24/7",OstarkTV CINEMA 2
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiKBiyXwyrSg0GWuyyjs2Djc5XtQ_G9XWvE3qBQceIhOZ
-#EXTINF:-1 xui-id="63296" tvg-id="" tvg-name="OstarkTV CINEMA COMEDIE" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mr5lPKtBNNQq-aHFfAGLKA3FebZR_vQTgQ89j83XJtEsa.png" group-title="▶️ CINEMA TV 24/7",OstarkTV CINEMA COMEDIE
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiMfG9gYropjJOwSrqUWKRDOZqZ0srXJPZpJB0__CX5Uq
-#EXTINF:-1 xui-id="63295" tvg-id="" tvg-name="OstarkTV CINEMA ACTIUNE" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mr5lPKtBNNQq-aHFfAGLKA3FebZR_vQTgQ89j83XJtEsa.png" group-title="▶️ CINEMA TV 24/7",OstarkTV CINEMA ACTIUNE
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiMfG9gYropjJOwSrqUWKRDM27tGksj3nJiEv9tPgN4hi
-#EXTINF:-1 xui-id="63288" tvg-id="" tvg-name="OstarkTV BOLLYWOOD" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mr5lPKtBNNQq-aHFfAGLKA3FebZR_vQTgQ89j83XJtEsa.png" group-title="▶️ CINEMA TV 24/7",OstarkTV BOLLYWOOD
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiKBiyXwyrSg0GWuyyjs2DjdNgN2u5uf7ZtYGNB_vGLvi
-#EXTINF:-1 xui-id="63298" tvg-id="" tvg-name="OstarkTV VAN DAMME" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mr5lPKtBNNQq-aHFfAGLKA3FebZR_vQTgQ89j83XJtEsa.png" group-title="▶️ CINEMA TV 24/7",OstarkTV VAN DAMME
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiMfG9gYropjJOwSrqUWKRDPDXA_FqdWMctohiw6ettws
-#EXTINF:-1 xui-id="63297" tvg-id="" tvg-name="OstarkTV SYLVESTER STALLONE" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mr5lPKtBNNQq-aHFfAGLKA3FebZR_vQTgQ89j83XJtEsa.png" group-title="▶️ CINEMA TV 24/7",OstarkTV SYLVESTER STALLONE
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiMfG9gYropjJOwSrqUWKRDMx6N-5oLESfXqSTbxK7u16
-#EXTINF:-1 xui-id="63291" tvg-id="" tvg-name="OstarkTV JOHN TRAVOLTA" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mr5lPKtBNNQq-aHFfAGLKA3FebZR_vQTgQ89j83XJtEsa.png" group-title="▶️ CINEMA TV 24/7",OstarkTV JOHN TRAVOLTA
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiMfG9gYropjJOwSrqUWKRDMc56yqd4AggeHbAmTNpKgf
-#EXTINF:-1 xui-id="63290" tvg-id="" tvg-name="OstarkTV JACKIE CHAN" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mr5lPKtBNNQq-aHFfAGLKA3FebZR_vQTgQ89j83XJtEsa.png" group-title="▶️ CINEMA TV 24/7",OstarkTV JACKIE CHAN
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiMfG9gYropjJOwSrqUWKRDMcZ3NdLeYgZ0p7qyc5cOfJ
-#EXTINF:-1 xui-id="63285" tvg-id="" tvg-name="OstarkTV DENZEL WASHINGTON" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mr5lPKtBNNQq-aHFfAGLKA3FebZR_vQTgQ89j83XJtEsa.png" group-title="▶️ CINEMA TV 24/7",OstarkTV DENZEL WASHINGTON
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiKBiyXwyrSg0GWuyyjs2Djc-hf5K7wJj9RoWJpnoPy8r
-#EXTINF:-1 xui-id="63281" tvg-id="" tvg-name="OstarkTv PIEDONE" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mr5lPKtBNNQq-aHFfAGLKA3FebZR_vQTgQ89j83XJtEsa.png" group-title="▶️ CINEMA TV 24/7",OstarkTv PIEDONE
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiKBiyXwyrSg0GWuyyjs2Djf0uO-y5M-YOHcJO9DV-4SR
-#EXTINF:-1 xui-id="63280" tvg-id="" tvg-name="OstarkTv ARNOLD SCHWARZENEGGER" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mr5lPKtBNNQq-aHFfAGLKA3FebZR_vQTgQ89j83XJtEsa.png" group-title="▶️ CINEMA TV 24/7",OstarkTv ARNOLD SCHWARZENEGGER
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiKBiyXwyrSg0GWuyyjs2DjchPjXRhlJLojC210e8zK65
-#EXTINF:-1 xui-id="63279" tvg-id="" tvg-name="OstarkTv ANGELINA JOLIE" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mr5lPKtBNNQq-aHFfAGLKA3FebZR_vQTgQ89j83XJtEsa.png" group-title="▶️ CINEMA TV 24/7",OstarkTv ANGELINA JOLIE
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiGgj_NLbVk--4aZOhrC3v6SrvIstCe1sTWRvgKS1JJ1s
-#EXTINF:-1 xui-id="185689" tvg-id="" tvg-name="Netflix 4K CINEMA" tvg-logo="http://ilussionm3dia.com:80/images/jvJlchLZcWOoTCh2LeGJgT40S3wSCc1jFsVU3Dlsy0-sqX1Cu5c0S6IPKBn1WI42sxeTSk_0o8sjyZY9Gj8K9g.png" group-title="▶️ CINEMA TV 24/7",Netflix 4K CINEMA
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiJJwf8z9uOHxdO-gS7aF5snGrcheTSwfywFw4xmTk1Bo
-#EXTINF:-1 xui-id="355254" tvg-id="" tvg-name="Netflix DENZEL WASHINGTON" tvg-logo="http://ilussionm3dia.com:80/images/jvJlchLZcWOoTCh2LeGJgT40S3wSCc1jFsVU3Dlsy0-sqX1Cu5c0S6IPKBn1WI42sxeTSk_0o8sjyZY9Gj8K9g.png" group-title="▶️ CINEMA TV 24/7",Netflix DENZEL WASHINGTON
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiH2qkBYmeJzkfW3r8k9UvhDsenn-In06d3An5hFDIx9F
-#EXTINF:-1 xui-id="280768" tvg-id="" tvg-name="Netflix CINEMA 2023" tvg-logo="http://ilussionm3dia.com:80/images/jvJlchLZcWOoTCh2LeGJgT40S3wSCc1jFsVU3Dlsy0-sqX1Cu5c0S6IPKBn1WI42sxeTSk_0o8sjyZY9Gj8K9g.png" group-title="▶️ CINEMA TV 24/7",Netflix CINEMA 2023
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiNRB8ZLFSU6seHhqeCNu4DJDTJsm9RZgbNKl1wkqbhfx
-#EXTINF:-1 xui-id="276398" tvg-id="" tvg-name="Netflix FILME 2022" tvg-logo="http://ilussionm3dia.com:80/images/jvJlchLZcWOoTCh2LeGJgT40S3wSCc1jFsVU3Dlsy0-sqX1Cu5c0S6IPKBn1WI42sxeTSk_0o8sjyZY9Gj8K9g.png" group-title="▶️ CINEMA TV 24/7",Netflix FILME 2022
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiP9374YBTZM3KIXMCnAuZY7VThbTQz1J9AQsSn1TGAHd
-#EXTINF:-1 xui-id="186730" tvg-id="" tvg-name="Netflix FAMILY TIME" tvg-logo="http://ilussionm3dia.com:80/images/jvJlchLZcWOoTCh2LeGJgT40S3wSCc1jFsVU3Dlsy0-sqX1Cu5c0S6IPKBn1WI42sxeTSk_0o8sjyZY9Gj8K9g.png" group-title="▶️ CINEMA TV 24/7",Netflix FAMILY TIME
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiDI-_9c3UnKfV9VIAOoqJi59S1xnK46oj1KkJUsLgA3h
-#EXTINF:-1 xui-id="184760" tvg-id="" tvg-name="Netflix ACTIUNE" tvg-logo="http://ilussionm3dia.com:80/images/jvJlchLZcWOoTCh2LeGJgT40S3wSCc1jFsVU3Dlsy0-sqX1Cu5c0S6IPKBn1WI42sxeTSk_0o8sjyZY9Gj8K9g.png" group-title="▶️ CINEMA TV 24/7",Netflix ACTIUNE
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiADzgVICCIZAwr6h-zlmne1gJkbYlx9STpPiQaKVeR7j
-#EXTINF:-1 xui-id="354284" tvg-id="" tvg-name="Netflix MARVEL CINEMA" tvg-logo="http://ilussionm3dia.com:80/images/jvJlchLZcWOoTCh2LeGJgT40S3wSCc1jFsVU3Dlsy0-sqX1Cu5c0S6IPKBn1WI42sxeTSk_0o8sjyZY9Gj8K9g.png" group-title="▶️ CINEMA TV 24/7",Netflix MARVEL CINEMA
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiD6Hem6ISi5fmoAZcfF0gcmrP1STw5U1ADMXBeNWQjJh
-#EXTINF:-1 xui-id="354285" tvg-id="" tvg-name="Netflix Fast and Furious" tvg-logo="http://ilussionm3dia.com:80/images/jvJlchLZcWOoTCh2LeGJgT40S3wSCc1jFsVU3Dlsy0-sqX1Cu5c0S6IPKBn1WI42sxeTSk_0o8sjyZY9Gj8K9g.png" group-title="▶️ CINEMA TV 24/7",Netflix Fast and Furious
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiD6Hem6ISi5fmoAZcfF0gcnT8VwvNV9-VfuySspl_OyO
-#EXTINF:-1 xui-id="184762" tvg-id="" tvg-name="Netflix AVENTURA" tvg-logo="http://ilussionm3dia.com:80/images/jvJlchLZcWOoTCh2LeGJgT40S3wSCc1jFsVU3Dlsy0-sqX1Cu5c0S6IPKBn1WI42sxeTSk_0o8sjyZY9Gj8K9g.png" group-title="▶️ CINEMA TV 24/7",Netflix AVENTURA
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiADzgVICCIZAwr6h-zlmne0kJeXXyjEMyMdTh56Q2fMJ
-#EXTINF:-1 xui-id="184761" tvg-id="" tvg-name="Netflix COMEDIE" tvg-logo="http://ilussionm3dia.com:80/images/jvJlchLZcWOoTCh2LeGJgT40S3wSCc1jFsVU3Dlsy0-sqX1Cu5c0S6IPKBn1WI42sxeTSk_0o8sjyZY9Gj8K9g.png" group-title="▶️ CINEMA TV 24/7",Netflix COMEDIE
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiADzgVICCIZAwr6h-zlmne3n-elLpH18Dshefd9be6aS
-#EXTINF:-1 xui-id="281197" tvg-id="" tvg-name="Netfix CINEMA INDIAN" tvg-logo="http://ilussionm3dia.com:80/images/jvJlchLZcWOoTCh2LeGJgT40S3wSCc1jFsVU3Dlsy0-sqX1Cu5c0S6IPKBn1WI42sxeTSk_0o8sjyZY9Gj8K9g.png" group-title="▶️ CINEMA TV 24/7",Netfix CINEMA INDIAN
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiOWHQWsRXxmlZcVghMkG3H0RX_y8Uu2dVIHhBJa7PITe
-#EXTINF:-1 xui-id="184764" tvg-id="" tvg-name="Netflix DOKU" tvg-logo="http://ilussionm3dia.com:80/images/jvJlchLZcWOoTCh2LeGJgT40S3wSCc1jFsVU3Dlsy0-sqX1Cu5c0S6IPKBn1WI42sxeTSk_0o8sjyZY9Gj8K9g.png" group-title="▶️ CINEMA TV 24/7",Netflix DOKU
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiADzgVICCIZAwr6h-zlmne18k1w0IJwk6rfIXlARdBt6
-#EXTINF:-1 xui-id="184765" tvg-id="" tvg-name="Netflix DRAMA" tvg-logo="http://ilussionm3dia.com:80/images/jvJlchLZcWOoTCh2LeGJgT40S3wSCc1jFsVU3Dlsy0-sqX1Cu5c0S6IPKBn1WI42sxeTSk_0o8sjyZY9Gj8K9g.png" group-title="▶️ CINEMA TV 24/7",Netflix DRAMA
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiADzgVICCIZAwr6h-zlmne32c0nm9msiBl0YuUVITVPn
-#EXTINF:-1 xui-id="184766" tvg-id="" tvg-name="Netflix FAMILY" tvg-logo="http://ilussionm3dia.com:80/images/jvJlchLZcWOoTCh2LeGJgT40S3wSCc1jFsVU3Dlsy0-sqX1Cu5c0S6IPKBn1WI42sxeTSk_0o8sjyZY9Gj8K9g.png" group-title="▶️ CINEMA TV 24/7",Netflix FAMILY
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiADzgVICCIZAwr6h-zlmne2rJczauEpNPEtP1C1M59tL
-#EXTINF:-1 xui-id="184767" tvg-id="" tvg-name="Netflix FANTASY" tvg-logo="http://ilussionm3dia.com:80/images/jvJlchLZcWOoTCh2LeGJgT40S3wSCc1jFsVU3Dlsy0-sqX1Cu5c0S6IPKBn1WI42sxeTSk_0o8sjyZY9Gj8K9g.png" group-title="▶️ CINEMA TV 24/7",Netflix FANTASY
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiADzgVICCIZAwr6h-zlmne1o-9lnEJt_tsC6cOZ0-h-a
-#EXTINF:-1 xui-id="184763" tvg-id="" tvg-name="Netflix MURDER" tvg-logo="http://ilussionm3dia.com:80/images/jvJlchLZcWOoTCh2LeGJgT40S3wSCc1jFsVU3Dlsy0-sqX1Cu5c0S6IPKBn1WI42sxeTSk_0o8sjyZY9Gj8K9g.png" group-title="▶️ CINEMA TV 24/7",Netflix MURDER
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiADzgVICCIZAwr6h-zlmne1fiLaXNYeqeVIeBcAg_hXY
-#EXTINF:-1 xui-id="184768" tvg-id="" tvg-name="Netflix HORROR" tvg-logo="http://ilussionm3dia.com:80/images/jvJlchLZcWOoTCh2LeGJgT40S3wSCc1jFsVU3Dlsy0-sqX1Cu5c0S6IPKBn1WI42sxeTSk_0o8sjyZY9Gj8K9g.png" group-title="▶️ CINEMA TV 24/7",Netflix HORROR
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiADzgVICCIZAwr6h-zlmne0SgijKptkjQxfho8bumki-
-#EXTINF:-1 xui-id="184769" tvg-id="" tvg-name="Netflix HISTORY" tvg-logo="http://ilussionm3dia.com:80/images/jvJlchLZcWOoTCh2LeGJgT40S3wSCc1jFsVU3Dlsy0-sqX1Cu5c0S6IPKBn1WI42sxeTSk_0o8sjyZY9Gj8K9g.png" group-title="▶️ CINEMA TV 24/7",Netflix HISTORY
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiADzgVICCIZAwr6h-zlmne18Gn69FXE7Q9zJXPKVLOg_
-#EXTINF:-1 xui-id="184770" tvg-id="" tvg-name="Netflix MYSTERY" tvg-logo="http://ilussionm3dia.com:80/images/jvJlchLZcWOoTCh2LeGJgT40S3wSCc1jFsVU3Dlsy0-sqX1Cu5c0S6IPKBn1WI42sxeTSk_0o8sjyZY9Gj8K9g.png" group-title="▶️ CINEMA TV 24/7",Netflix MYSTERY
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiADzgVICCIZAwr6h-zlmne0MI8VOILxPa_veESkAqLJZ
-#EXTINF:-1 xui-id="184772" tvg-id="" tvg-name="Netflix ROMANCE" tvg-logo="http://ilussionm3dia.com:80/images/jvJlchLZcWOoTCh2LeGJgT40S3wSCc1jFsVU3Dlsy0-sqX1Cu5c0S6IPKBn1WI42sxeTSk_0o8sjyZY9Gj8K9g.png" group-title="▶️ CINEMA TV 24/7",Netflix ROMANCE
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiADzgVICCIZAwr6h-zlmne04AJqbiW2uJSnS0j2dLVLD
-#EXTINF:-1 xui-id="184773" tvg-id="" tvg-name="Netflix SCINCE FICTION" tvg-logo="http://ilussionm3dia.com:80/images/jvJlchLZcWOoTCh2LeGJgT40S3wSCc1jFsVU3Dlsy0-sqX1Cu5c0S6IPKBn1WI42sxeTSk_0o8sjyZY9Gj8K9g.png" group-title="▶️ CINEMA TV 24/7",Netflix SCINCE FICTION
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiADzgVICCIZAwr6h-zlmne3AjU3jxln-10tF4wpMPl-p
-#EXTINF:-1 xui-id="184774" tvg-id="" tvg-name="Netflix THRILLER" tvg-logo="http://ilussionm3dia.com:80/images/jvJlchLZcWOoTCh2LeGJgT40S3wSCc1jFsVU3Dlsy0-sqX1Cu5c0S6IPKBn1WI42sxeTSk_0o8sjyZY9Gj8K9g.png" group-title="▶️ CINEMA TV 24/7",Netflix THRILLER
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiADzgVICCIZAwr6h-zlmne2JPB97fk0_ugErFmKzBJUb
-#EXTINF:-1 xui-id="184771" tvg-id="" tvg-name="Netflix WAR" tvg-logo="http://ilussionm3dia.com:80/images/jvJlchLZcWOoTCh2LeGJgT40S3wSCc1jFsVU3Dlsy0-sqX1Cu5c0S6IPKBn1WI42sxeTSk_0o8sjyZY9Gj8K9g.png" group-title="▶️ CINEMA TV 24/7",Netflix WAR
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiADzgVICCIZAwr6h-zlmne3SfC2WnrUgyebdY_3sCO6O
-#EXTINF:-1 xui-id="389083" tvg-id="HBOZ" tvg-name="HBO ZONE" tvg-logo="https://i.postimg.cc/FHm9W5Y3/hbo-zone.gif" group-title="▶️ CINEMA TV 24/7",HBO ZONE
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiGLygXFfRYvPdREmYcUmjbwydBQ_0DHjY6ptnZ7JVBV1
-#EXTINF:-1 xui-id="389084" tvg-id="HBMAX" tvg-name="HBO MAX" tvg-logo="https://i.postimg.cc/t49vz609/max.gif" group-title="▶️ CINEMA TV 24/7",HBO MAX
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiGLygXFfRYvPdREmYcUmjbw4g2M5cc4SjYWbAdVlyfwn
-#EXTINF:-1 xui-id="389085" tvg-id="HBOSIG" tvg-name="HBO SIGNATURE" tvg-logo="https://i.postimg.cc/3N8sgddN/signature.gif" group-title="▶️ CINEMA TV 24/7",HBO SIGNATURE
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiGLygXFfRYvPdREmYcUmjbxTSe4mbtxTOjskvboq-Iie
-#EXTINF:-1 xui-id="389086" tvg-id="" tvg-name="HBO GO" tvg-logo="http://ilussionm3dia.com:80/images/Bct6sJWxiBu7Q9I6etjarEgk1K-HosSX9N9karjzvRss9Sv5dZ0D6RCOT01BsSvU.png" group-title="▶️ CINEMA TV 24/7",HBO GO
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiGLygXFfRYvPdREmYcUmjby7C6_6Pl2D7em9SAHGa1P9
-#EXTINF:-1 xui-id="389087" tvg-id="" tvg-name="HBO GOLD" tvg-logo="http://ilussionm3dia.com:80/images/Bct6sJWxiBu7Q9I6etjarKydkFV1t8pRK36zW4RFIbjSCHPBYBDk3q6zdOmQfyr0.png" group-title="▶️ CINEMA TV 24/7",HBO GOLD
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiGLygXFfRYvPdREmYcUmjbw8Lp0gha4Z3r4DdsVSeXnn
-#EXTINF:-1 xui-id="389088" tvg-id="" tvg-name="HBO COMEDIE" tvg-logo="https://i.postimg.cc/h4f31LHp/COMEDIE.gif" group-title="▶️ CINEMA TV 24/7",HBO COMEDIE
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiGLygXFfRYvPdREmYcUmjbyRw2bXHXX1BoSuM_H3ksVS
-#EXTINF:-1 xui-id="389089" tvg-id="" tvg-name="HBO AVENTURA" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mr2bLKqHdYLtvNmaleAl6y07O379RbukofEQHHnDkO7b5qFlwPRr4mKnUuUb-HrwHkg.png" group-title="▶️ CINEMA TV 24/7",HBO AVENTURA
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiGLygXFfRYvPdREmYcUmjbw1hVna230fZFM_oBU9GH6l
-#EXTINF:-1 xui-id="389090" tvg-id="" tvg-name="HBO ACTIUNE" tvg-logo="https://i.postimg.cc/1tXwXXG9/ACTIUNE.gif" group-title="▶️ CINEMA TV 24/7",HBO ACTIUNE
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiGLygXFfRYvPdREmYcUmjby0m5y6I7AIs0PG_rEm_3Eg
-#EXTINF:-1 xui-id="389091" tvg-id="" tvg-name="HBO HORROR" tvg-logo="https://i.postimg.cc/PrY3TVfS/HORROR.gif" group-title="▶️ CINEMA TV 24/7",HBO HORROR
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiGLygXFfRYvPdREmYcUmjbwouWLP9byQQryGaijP5Z1m
-#EXTINF:-1 xui-id="389092" tvg-id="" tvg-name="HBO FANTASY" tvg-logo="https://i.postimg.cc/kgPHS3hr/FANTASY.gif" group-title="▶️ CINEMA TV 24/7",HBO FANTASY
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiGLygXFfRYvPdREmYcUmjbyaLVcYHxQv8t_h2U69FYG3
-#EXTINF:-1 xui-id="389093" tvg-id="" tvg-name="HBO WAR" tvg-logo="https://i.postimg.cc/Y0g32j7v/WAR.gif" group-title="▶️ CINEMA TV 24/7",HBO WAR
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiGLygXFfRYvPdREmYcUmjbyYbB2iteJ9VehKYHvksPg9
-#EXTINF:-1 xui-id="389094" tvg-id="" tvg-name="MARVEL STUDIO" tvg-logo="http://ilussionm3dia.com:80/images/Bct6sJWxiBu7Q9I6etjarC3dqEx1qHJ1TFdoOwvfWpK_qiKfR5bybcx7TnJt8IbDqCMibwFlT_fSGhl6NmhOWw.png" group-title="▶️ CINEMA TV 24/7",MARVEL STUDIO
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiGLygXFfRYvPdREmYcUmjbyOYlWUgneRxkGZKzg46QZM
-#EXTINF:-1 xui-id="389096" tvg-id="" tvg-name="DIGI MOVIES" tvg-logo="http://ilussionm3dia.com:80/images/Bct6sJWxiBu7Q9I6etjarHT0Uhg85X2w6T71qYX_ikz1SBzP9bOL7puBdSacD9sJLHdSSXAMDOLARPhgRIjxvg.png" group-title="▶️ CINEMA TV 24/7",DIGI MOVIES
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiGLygXFfRYvPdREmYcUmjby18CVM0eZu2KWSR3U9l8tI
-#EXTINF:-1 xui-id="389097" tvg-id="" tvg-name="DIGI FILM" tvg-logo="http://ilussionm3dia.com:80/images/Bct6sJWxiBu7Q9I6etjarHnsBmcdtvFmINpqgrpQ5wz4fWg2ZX0SHihCCuTmsWHs263WBsugYE77OT6jcUx_PA.png" group-title="▶️ CINEMA TV 24/7",DIGI FILM
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiGLygXFfRYvPdREmYcUmjby6JdUDll55ffOboO0EI4KT
-#EXTINF:-1 xui-id="389098" tvg-id="" tvg-name="One Play JASON STATHAM" tvg-logo="" group-title="▶️ CINEMA TV 24/7",One Play JASON STATHAM
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiGLygXFfRYvPdREmYcUmjbxBrYV1YOjnc1tl6JA4Y_yr
-#EXTINF:-1 xui-id="389099" tvg-id="" tvg-name="One Play ARNOLD SCHWARZENEGGER" tvg-logo="https://postimg.cc/648y9JW0" group-title="▶️ CINEMA TV 24/7",One Play ARNOLD SCHWARZENEGGER
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiGLygXFfRYvPdREmYcUmjbzZF2uoidwVftKI4Sxwwmyn
-#EXTINF:-1 xui-id="389100" tvg-id="" tvg-name="One Play MARTIN LAWRENCE" tvg-logo="https://i.imgur.com/SkAYdVi.png" group-title="▶️ CINEMA TV 24/7",One Play MARTIN LAWRENCE
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiG8lJ_8QG6ql8d6h7pgPV2ZpQ1RlalwvXoNGWYioTKwM
-#EXTINF:-1 xui-id="389101" tvg-id="" tvg-name="One Play JOHN TRAVOLTA" tvg-logo="https://i.imgur.com/SkAYdVi.png" group-title="▶️ CINEMA TV 24/7",One Play JOHN TRAVOLTA
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiG8lJ_8QG6ql8d6h7pgPV2azZJAUBrQE7y3QFMlQMMfM
-#EXTINF:-1 xui-id="389102" tvg-id="" tvg-name="One Play LEONARDO DICAPRIO" tvg-logo="https://i.imgur.com/SkAYdVi.png" group-title="▶️ CINEMA TV 24/7",One Play LEONARDO DICAPRIO
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiG8lJ_8QG6ql8d6h7pgPV2YQ4S-vwQqhM9E8XdZ1t1kV
-#EXTINF:-1 xui-id="389103" tvg-id="" tvg-name="One Play NICOLAS CAGE" tvg-logo="https://i.imgur.com/SkAYdVi.png" group-title="▶️ CINEMA TV 24/7",One Play NICOLAS CAGE
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiG8lJ_8QG6ql8d6h7pgPV2bzU3_M8EcgV8aV8-n5GC9h
-#EXTINF:-1 xui-id="389104" tvg-id="" tvg-name="One Play ROBERT DE NIRO" tvg-logo="https://i.imgur.com/SkAYdVi.png" group-title="▶️ CINEMA TV 24/7",One Play ROBERT DE NIRO
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiG8lJ_8QG6ql8d6h7pgPV2ZqKVrBdD5xETZDjlWgdNYr
-#EXTINF:-1 xui-id="389105" tvg-id="" tvg-name="One Play DENZEL WASHINGTON" tvg-logo="https://i.imgur.com/SkAYdVi.png" group-title="▶️ CINEMA TV 24/7",One Play DENZEL WASHINGTON
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiG8lJ_8QG6ql8d6h7pgPV2ZpdODuh2GFPDAWiOHW2DBB
-#EXTINF:-1 xui-id="389106" tvg-id="" tvg-name="One Play JIM CARREY" tvg-logo="https://i.imgur.com/SkAYdVi.png" group-title="▶️ CINEMA TV 24/7",One Play JIM CARREY
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiG8lJ_8QG6ql8d6h7pgPV2ZJaFDEjbtwR_pSuUgRtcc-
-#EXTINF:-1 xui-id="389107" tvg-id="" tvg-name="One Play LIAM NEESON" tvg-logo="https://i.imgur.com/SkAYdVi.png" group-title="▶️ CINEMA TV 24/7",One Play LIAM NEESON
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiG8lJ_8QG6ql8d6h7pgPV2biUDU7JfPv0Qvf8p8pBFdV
-#EXTINF:-1 xui-id="389108" tvg-id="" tvg-name="One Play Jean Claude Van Damme" tvg-logo="https://i.imgur.com/SkAYdVi.png" group-title="▶️ CINEMA TV 24/7",One Play Jean Claude Van Damme
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiG8lJ_8QG6ql8d6h7pgPV2Za0R_ZuZN8nms4saZ6GBgY
-#EXTINF:-1 xui-id="389109" tvg-id="vizyonchristmashd.ro" tvg-name="Vizyon Christmas Movies" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mr7ROiNkw5IFYaZ7AcoUso41Cxtep38H3uRVt0VthGmdnccRvPOK9rtZtyzDKsGKLSw.png" group-title="▶️ CINEMA TV 24/7",Vizyon Christmas Movies
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiG8lJ_8QG6ql8d6h7pgPV2adfcqvWhas3ipMF9dP-anl
-#EXTINF:-1 xui-id="389110" tvg-id="vizyon4k.ro" tvg-name="Vizyon Film 4K" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mr2GBJ1Gu6J6f_RNS5er1nwuRNjkQJUrLFHqz51N3clLz.png" group-title="▶️ CINEMA TV 24/7",Vizyon Film 4K
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiG8lJ_8QG6ql8d6h7pgPV2ZYg2WKlzPMjLgIGejK4rjk
-#EXTINF:-1 xui-id="389111" tvg-id="cinema2023.ro" tvg-name="Vizyon Cinema 2023" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mr74oUc2KVatSJEihH2sobs0PLfeaJ65UdivOqNSkg7d7.png" group-title="▶️ CINEMA TV 24/7",Vizyon Cinema 2023
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiG8lJ_8QG6ql8d6h7pgPV2bgw9K3duXeSiocgl-AK5Et
-#EXTINF:-1 xui-id="389112" tvg-id="" tvg-name="Vizyon Film 1 HD" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mr6pyh4C74F-_RNoYPh6RoHeDfTmIclYWFtZTnjD8TlDC.png" group-title="▶️ CINEMA TV 24/7",Vizyon Film 1 HD
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiG8lJ_8QG6ql8d6h7pgPV2b8tFudi9ifKGcj3vOPLVQO
-#EXTINF:-1 xui-id="389113" tvg-id="" tvg-name="Vizyon Film 2 HD" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mryu30ASrEn6PlxUIR0T-ZOwURxmD4cjCqgnWzU_W2Y06.png" group-title="▶️ CINEMA TV 24/7",Vizyon Film 2 HD
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiG8lJ_8QG6ql8d6h7pgPV2Zu0ep0jstGotQqNpECcWnE
-#EXTINF:-1 xui-id="389114" tvg-id="" tvg-name="Vizyon Film 3 HD" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mr6c2WpIYmaRw8-Diznn1yo0s8WtMT8bMMsTq3HW5pqe0.png" group-title="▶️ CINEMA TV 24/7",Vizyon Film 3 HD
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiG8lJ_8QG6ql8d6h7pgPV2b2v3MIAd2iHG6r_1FNz5hg
-#EXTINF:-1 xui-id="389115" tvg-id="" tvg-name="Vizyon Film 4 HD" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mr4hmK6zLFrPRkfjpQ0Cubdo6Gy5pvLCFSG7kCb2OwRdl.png" group-title="▶️ CINEMA TV 24/7",Vizyon Film 4 HD
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiG8lJ_8QG6ql8d6h7pgPV2aXSwSTpkCXpCfcoi_UFASC
-#EXTINF:-1 xui-id="389116" tvg-id="" tvg-name="Vizyon Film 5 HD" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mr1JpD5xPRqHpu5tHsWwQ6nB9ANIYJhfo2TzyD_qzcIqf.png" group-title="▶️ CINEMA TV 24/7",Vizyon Film 5 HD
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiG8lJ_8QG6ql8d6h7pgPV2YeSLHD9GG8ZBo_j64Brm5O
-#EXTINF:-1 xui-id="389117" tvg-id="" tvg-name="Vizyon Film 6 HD" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mr2IpfkQn8aCDBMMllYAz2whdoK1SQeVcsTGl6ij3RkuZ.png" group-title="▶️ CINEMA TV 24/7",Vizyon Film 6 HD
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiG8lJ_8QG6ql8d6h7pgPV2ZYHll9k7AxstUPhNyavkRV
-#EXTINF:-1 xui-id="389118" tvg-id="" tvg-name="Vizyon Film 7 HD" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mrwnwKagl2vbsp4CKoyKyAdfh1mXdq1Zu1TKzkcESVKPQ.png" group-title="▶️ CINEMA TV 24/7",Vizyon Film 7 HD
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiG8lJ_8QG6ql8d6h7pgPV2aK4YCNt2nvU7myj7wV2aWS
-#EXTINF:-1 xui-id="389119" tvg-id="" tvg-name="Vizyon Film 8 HD" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mrw3AfF9nGxlqjLPpO-bQJlNscDSOugZBDx5FCKv_NXM0.png" group-title="▶️ CINEMA TV 24/7",Vizyon Film 8 HD
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiG8lJ_8QG6ql8d6h7pgPV2YjqmCNVwCgE8Jo39RYTcFU
-#EXTINF:-1 xui-id="389120" tvg-id="" tvg-name="Vizyon Film 9 HD" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mry6VoCIprPkWuEIV1Sps1cjxZ2f-dd_9GIP8RowjriBM.png" group-title="▶️ CINEMA TV 24/7",Vizyon Film 9 HD
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiG8lJ_8QG6ql8d6h7pgPV2aN51cXij_OQEFHE7DYqOxu
-#EXTINF:-1 xui-id="389121" tvg-id="" tvg-name="Vizyon Film 10 HD" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mr03ClH2P3f0TCJnfpVm7CzBh-09RUYHuRCMqQzAKYkk5.png" group-title="▶️ CINEMA TV 24/7",Vizyon Film 10 HD
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiG8lJ_8QG6ql8d6h7pgPV2bHC1ku4fejo_k3vMzP5YMw
-#EXTINF:-1 xui-id="389122" tvg-id="" tvg-name="Vizyon Film 11 HD" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mrwpIIPN-8iS2-Mq_7BkdUXJRpMDtbT6vVNX5V2Rl0vpU.png" group-title="▶️ CINEMA TV 24/7",Vizyon Film 11 HD
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiG8lJ_8QG6ql8d6h7pgPV2YCOKCHHXjFlCv5WYX9NowU
-#EXTINF:-1 xui-id="389123" tvg-id="" tvg-name="Vizyon Film 12 HD" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mr2u1eIj58rvwUo_GUvt5w4IXYJFcJDyEkaXdrMpUFeFx.png" group-title="▶️ CINEMA TV 24/7",Vizyon Film 12 HD
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiG8lJ_8QG6ql8d6h7pgPV2YIgIMdV5mM2MvBxWpad72b
-#EXTINF:-1 xui-id="389124" tvg-id="" tvg-name="Vizyon Film 13 HD" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mrxrFO5p99EXBAdUA1NndYIjh7bN0it94KPOqsMV-h7YG.png" group-title="▶️ CINEMA TV 24/7",Vizyon Film 13 HD
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiG8lJ_8QG6ql8d6h7pgPV2apn6C2rZMhxQrDbEgXWFRA
-#EXTINF:-1 xui-id="389125" tvg-id="" tvg-name="Vizyon Film 14 HD" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mr4uTPPjQeC3xbn2ywIivKuzS95xlySG_lHRollLBWj6y.png" group-title="▶️ CINEMA TV 24/7",Vizyon Film 14 HD
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiG8lJ_8QG6ql8d6h7pgPV2Yw5MYfOIemQspr1_WqGOzV
-#EXTINF:-1 xui-id="389126" tvg-id="" tvg-name="Vizyon Film 15 HD" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mrxN15JKO3elj_JbiyVQXqoWdRdX3bYH4eZhR5iBn8l8W.png" group-title="▶️ CINEMA TV 24/7",Vizyon Film 15 HD
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiG8lJ_8QG6ql8d6h7pgPV2Zczv2esp2dOVfZawfyzofJ
-#EXTINF:-1 xui-id="389127" tvg-id="" tvg-name="Vizyon Film 16 HD" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mrzN3plNp2N9zcXgj7IZy6_jHcKgD_VFndkmWjn3SP02H.png" group-title="▶️ CINEMA TV 24/7",Vizyon Film 16 HD
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiG8lJ_8QG6ql8d6h7pgPV2an_muwlwvs6ANK17t6gq_2
-#EXTINF:-1 xui-id="389128" tvg-id="" tvg-name="Vizyon Film 17 HD" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mr60yGeS8ma-bPw8UorWzi6kirho9aBozEGQ2xNjCyZhK.png" group-title="▶️ CINEMA TV 24/7",Vizyon Film 17 HD
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiG8lJ_8QG6ql8d6h7pgPV2ZD8oV8onfsQtVIM4ThrC4J
-#EXTINF:-1 xui-id="389129" tvg-id="" tvg-name="Vizyon Film 18 HD" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mr8dI877jeT5fVhhNHFq7NpTQJ-44EarvNzIr2PxKVLnw.png" group-title="▶️ CINEMA TV 24/7",Vizyon Film 18 HD
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiG8lJ_8QG6ql8d6h7pgPV2Z3-m3eZXtexX8fAQFmY2BN
-#EXTINF:-1 xui-id="389130" tvg-id="" tvg-name="Vizyon Film 19 HD" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mr5WLWaVwYh4jibgJ5X0oTOS9rbXhtJO-TrAsLaZdJeH5.png" group-title="▶️ CINEMA TV 24/7",Vizyon Film 19 HD
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiG8lJ_8QG6ql8d6h7pgPV2anOFQJHv_VDXqOsQHRJMnR
-#EXTINF:-1 xui-id="389131" tvg-id="vizyon20hd.ro" tvg-name="Vizyon Film 20 HD" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mr08jMSQMmVmLVxDWgkGJMnz00EdYtLUnTemFHY6Gvor1.png" group-title="▶️ CINEMA TV 24/7",Vizyon Film 20 HD
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiG8lJ_8QG6ql8d6h7pgPV2axqo5Afcop6RQiHfoqssIt
-#EXTINF:-1 xui-id="389132" tvg-id="vizyon21hd.ro" tvg-name="Vizyon Film 21 HD" tvg-logo="http://ilussionm3dia.com:80/images/QBtq4zMU5juqyaW5Nv-mr9t7LOXmCjlDATAIWLLq3EGyrtqJoI_u7LHK3BHJUHXn.png" group-title="▶️ CINEMA TV 24/7",Vizyon Film 21 HD
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiG8lJ_8QG6ql8d6h7pgPV2Zt1obQst3_clzHG9ne1jZA
-#EXTINF:-1 xui-id="389133" tvg-id="" tvg-name="Vizyon Channel" tvg-logo="http://ilussionm3dia.com:80/images/ifcEUxLGZPJl8KGWRqcVm65r1KpN5gwyFJKeG4D39Li961PRB5uP2WXSc3UFCb2qxsSqqxkPjWA9et0r9EHzp2_-xab50-QRaZvDo9K4cZk4Tz2gV0h-7vGu7zalX7xU0AbZcqlbtI3dpcZkD3m0p-r5E6tnWWcKjLjozzrVgZE.png" group-title="▶️ CINEMA TV 24/7",Vizyon Channel
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiG8lJ_8QG6ql8d6h7pgPV2YWh37P0R5jlb--J7floids
-#EXTINF:-1 xui-id="389134" tvg-id="" tvg-name="Vizyon Family" tvg-logo="http://116.202.175.62//images/pEFyLaZ6s1pPNIM2kEqdhHHggZdNNANvGa0h_SDmx-xucadeJxH_aYij13gZqf-ieulBr4tzrXQgkoKtbYOrCGxNR2BKxcRHhQ2J9AD5UpUMr3UQ2PUStQdf4gsDBGERY2JC623_Re2IWuIWiqXokHYqXWP-LGvP_kcEHL_-ntM.png" group-title="▶️ CINEMA TV 24/7",Vizyon Family
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiG8lJ_8QG6ql8d6h7pgPV2bYXka3kB8FFzdb70Nh82m-
-#EXTINF:-1 xui-id="389135" tvg-id="" tvg-name="Vizyon SF" tvg-logo="http://ilussionm3dia.com:80/images/OVlW2PI6zyprN3fJBI9nX34Av1CFvtcRSolQnjZuHO8mv4wV2jqQJs8NpE8m0JffvAlCnv7gwKhjyqh5R3Kk9eykVilYVXVN9ah5c8ungGI.png" group-title="▶️ CINEMA TV 24/7",Vizyon SF
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiG8lJ_8QG6ql8d6h7pgPV2Z4NIPsp6FtsFcwiqSTqjbX
-#EXTINF:-1 xui-id="382927" tvg-id="" tvg-name="( OnePlay ) NETFLIX ACTIUNE 1" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) NETFLIX ACTIUNE 1
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKFwUN34fBQZX5o4LCdDON-U
-#EXTINF:-1 xui-id="382928" tvg-id="" tvg-name="( OnePlay ) NETFLIX ACTIUNE 2" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) NETFLIX ACTIUNE 2
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKFDSnAdzoo7BraPt-ZRlChr
-#EXTINF:-1 xui-id="382929" tvg-id="" tvg-name="( OnePlay ) NETFLIX ACTIUNE 3" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) NETFLIX ACTIUNE 3
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKHwMs21ZWGFY3DaDtUf1V6F
-#EXTINF:-1 xui-id="382930" tvg-id="" tvg-name="( OnePlay ) NETFLIX ACTIUNE 4" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) NETFLIX ACTIUNE 4
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKFjdSc2szp3siOc2yt01OFb
-#EXTINF:-1 xui-id="382931" tvg-id="" tvg-name="( OnePlay ) NETFLIX ACTIUNE 5" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) NETFLIX ACTIUNE 5
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKE_7FUjGWXIUGoJp8VPqcwj
-#EXTINF:-1 xui-id="382932" tvg-id="" tvg-name="( OnePlay ) NETFLIX DRAMA 1" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) NETFLIX DRAMA 1
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKHZOb2wfcAS46JfpHcpAVBr
-#EXTINF:-1 xui-id="382933" tvg-id="" tvg-name="( OnePlay ) NETFLIX DRAMA 2" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) NETFLIX DRAMA 2
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKHLOchGjEbZHlCdS7IsOgR2
-#EXTINF:-1 xui-id="382934" tvg-id="" tvg-name="( OnePlay ) NETFLIX DRAMA 3" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) NETFLIX DRAMA 3
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKGWkUrsSD7DxhD5BwksEsH8
-#EXTINF:-1 xui-id="382935" tvg-id="" tvg-name="( OnePlay ) NETFLIX DRAMA 4" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) NETFLIX DRAMA 4
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKFbdxrS89TYFRAiuPxijHAd
-#EXTINF:-1 xui-id="382936" tvg-id="" tvg-name="( OnePlay ) NETFLIX DRAMA 5" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) NETFLIX DRAMA 5
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKEM84rpS3-3HCnKWT2XQPjG
-#EXTINF:-1 xui-id="382937" tvg-id="" tvg-name="( OnePlay ) NETFLIX THRILLER 1" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) NETFLIX THRILLER 1
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKFdBCsM0DW_z6RB4vK8aqlB
-#EXTINF:-1 xui-id="382938" tvg-id="" tvg-name="( OnePlay ) NETFLIX THRILLER 2" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) NETFLIX THRILLER 2
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKHIsaWPJU6j3wDSEF7LgpWQ
-#EXTINF:-1 xui-id="382939" tvg-id="" tvg-name="( OnePlay ) NETFLIX THRILLER 3" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) NETFLIX THRILLER 3
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKEe3fGcJTUmrqhl_TB6_GDZ
-#EXTINF:-1 xui-id="382940" tvg-id="" tvg-name="( OnePlay ) NETFLIX THRILLER 4" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) NETFLIX THRILLER 4
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKFgpvZJBPxkx4kUQTQZTqoa
-#EXTINF:-1 xui-id="382941" tvg-id="" tvg-name="( OnePlay ) NETFLIX THRILLER 5" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) NETFLIX THRILLER 5
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKF5PaUDJxkARZg6QTVV3AMY
-#EXTINF:-1 xui-id="382942" tvg-id="" tvg-name="( OnePlay ) NETFLIX COMEDIE 1" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) NETFLIX COMEDIE 1
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKGdotCsI2Fndvgpu6KEPmtg
-#EXTINF:-1 xui-id="382943" tvg-id="" tvg-name="( OnePlay ) NETFLIX COMEDIE 2" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) NETFLIX COMEDIE 2
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKGiMBZRrebcTYlfeILURloQ
-#EXTINF:-1 xui-id="382944" tvg-id="" tvg-name="( OnePlay ) NETFLIX COMEDIE 3" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) NETFLIX COMEDIE 3
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKE4nVhQTLIIdcoSMGJHYFxB
-#EXTINF:-1 xui-id="382945" tvg-id="" tvg-name="( OnePlay ) NETFLIX COMEDIE 4" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) NETFLIX COMEDIE 4
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKHOuUuAQq9crOBi3BNaoyC0
-#EXTINF:-1 xui-id="382946" tvg-id="" tvg-name="( OnePlay ) NETFLIX COMEDIE 5" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) NETFLIX COMEDIE 5
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKEeOynYGwc03c6fB-rTdumv
-#EXTINF:-1 xui-id="382947" tvg-id="" tvg-name="( OnePlay ) NETFLIX FILME ROMANESTI 1" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) NETFLIX FILME ROMANESTI 1
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKEZHrMjXC87-56yBpV2U_vf
-#EXTINF:-1 xui-id="382948" tvg-id="" tvg-name="( OnePlay ) NETFLIX FILME ROMANESTI 2" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) NETFLIX FILME ROMANESTI 2
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKFDjSh0u0ZKr8N9OmpI9xD8
-#EXTINF:-1 xui-id="382949" tvg-id="" tvg-name="( OnePlay ) NETFLIX FILME ROMANESTI 3" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) NETFLIX FILME ROMANESTI 3
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKHEgygI8LtyX-IGRw607f1-
-#EXTINF:-1 xui-id="382950" tvg-id="" tvg-name="( OnePlay ) PRO Filme Bollywood" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) PRO Filme Bollywood
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKFaBn6-eocop9OWUKE9zchc
-#EXTINF:-1 xui-id="382951" tvg-id="" tvg-name="( OnePlay ) PRO Western FHD" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) PRO Western FHD
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKGwoHxbkEqcoQpKIPVrfTWU
-#EXTINF:-1 xui-id="382952" tvg-id="" tvg-name="( OnePlay ) PRO Actiune 1" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) PRO Actiune 1
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKEhFGBsj32bGaH6SEHCYYIp
-#EXTINF:-1 xui-id="382953" tvg-id="" tvg-name="( OnePlay ) PRO Actiune 2" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) PRO Actiune 2
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKFJn2Ja1sknwHjjQySNQdiM
-#EXTINF:-1 xui-id="382954" tvg-id="" tvg-name="( OnePlay ) PRO Actiune 3" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) PRO Actiune 3
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKHsrtea-sgD96U5ueUBtjYH
-#EXTINF:-1 xui-id="382955" tvg-id="" tvg-name="( OnePlay ) PRO Actiune 4" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) PRO Actiune 4
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKFt1gKjSMtZCYX5eCwRCfLt
-#EXTINF:-1 xui-id="382956" tvg-id="" tvg-name="( OnePlay ) PRO Actiune 5" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) PRO Actiune 5
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKHlCKEt251tt6Pi6htplX-e
-#EXTINF:-1 xui-id="382957" tvg-id="" tvg-name="( OnePlay ) PRO Aventura 1" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) PRO Aventura 1
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKEr5yYoWhivXVmvGxmmBbQK
-#EXTINF:-1 xui-id="382958" tvg-id="" tvg-name="( OnePlay ) PRO Aventura 2" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) PRO Aventura 2
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKEYw2-iChMDjlg0yxPt4mJL
-#EXTINF:-1 xui-id="382959" tvg-id="" tvg-name="( OnePlay ) PRO Aventura 3" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) PRO Aventura 3
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKHOR8Ki9f8wsLrdKBorKMOB
-#EXTINF:-1 xui-id="382960" tvg-id="" tvg-name="( OnePlay ) PRO DRAMA 1" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) PRO DRAMA 1
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKEvPCuGlXV1YY25dlaQTOty
-#EXTINF:-1 xui-id="382961" tvg-id="" tvg-name="( OnePlay ) PRO DRAMA 2" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) PRO DRAMA 2
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKEmUPAMdpGlU74GFPaJEeLD
-#EXTINF:-1 xui-id="382962" tvg-id="" tvg-name="( OnePlay ) PRO DRAMA 3" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) PRO DRAMA 3
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKGEaa378y0Pb7udj_UaH4iZ
-#EXTINF:-1 xui-id="382963" tvg-id="" tvg-name="( OnePlay ) PRO DRAMA 4" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) PRO DRAMA 4
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKEVQYCNoRzlakKYAov3fng5
-#EXTINF:-1 xui-id="382964" tvg-id="" tvg-name="( OnePlay ) PRO Comedie 1" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) PRO Comedie 1
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKFDSLVLwGkTwF5dG58-Sh9G
-#EXTINF:-1 xui-id="382965" tvg-id="" tvg-name="( OnePlay ) PRO Comedie 2" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) PRO Comedie 2
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKFkO8OIx5__4Oa-B7RaMhRH
-#EXTINF:-1 xui-id="382966" tvg-id="" tvg-name="( OnePlay ) PRO Comedie 3" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) PRO Comedie 3
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKFGCF7NMrcYP8y202gXnLbq
-#EXTINF:-1 xui-id="382967" tvg-id="" tvg-name="( OnePlay ) GOLD DRAMA 1" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) GOLD DRAMA 1
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKGBrZMr0FV77ZnZMjsh_xJW
-#EXTINF:-1 xui-id="382968" tvg-id="" tvg-name="( OnePlay ) GOLD DRAMA 2" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) GOLD DRAMA 2
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKGSQweM5dMQ7H6jA-3ipYzE
-#EXTINF:-1 xui-id="382969" tvg-id="" tvg-name="( OnePlay ) Filme Horror 1" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) Filme Horror 1
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKHWiL0UxfBNzeclb8LfpdjT
-#EXTINF:-1 xui-id="382970" tvg-id="" tvg-name="( OnePlay ) Filme Horror 2" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) Filme Horror 2
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKHIqvbenkM2EnCLHBqGaxVi
-#EXTINF:-1 xui-id="382971" tvg-id="" tvg-name="( OnePlay ) Filme Actiune" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) Filme Actiune
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKFGSv-OTaDwzioyzsDD1L5s
-#EXTINF:-1 xui-id="382972" tvg-id="" tvg-name="( OnePlay ) Filme Aventura FHD" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) Filme Aventura FHD
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKGL8VnKth8mMj5ebYgu2aKt
-#EXTINF:-1 xui-id="382973" tvg-id="" tvg-name="( OnePlay ) IMPACT FILME 2023 1 FHD" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) IMPACT FILME 2023 1 FHD
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKEChb2pBlKGY86TpMVJOD4O
-#EXTINF:-1 xui-id="382974" tvg-id="" tvg-name="( OnePlay ) IMPACT FILME 2023 2 FHD" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) IMPACT FILME 2023 2 FHD
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKEWEyl-odh_GLCwBEgThqWS
-#EXTINF:-1 xui-id="382975" tvg-id="" tvg-name="( OnePlay ) IMPACT FILME WESTERN 1 FHD" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) IMPACT FILME WESTERN 1 FHD
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKERghBR27nK1V58HgtY3kjG
-#EXTINF:-1 xui-id="382976" tvg-id="" tvg-name="( OnePlay ) IMPACT FILME WESTERN 2 FHD" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) IMPACT FILME WESTERN 2 FHD
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKF5H3n73a7dNoqbIWY4ktW3
-#EXTINF:-1 xui-id="382977" tvg-id="" tvg-name="( OnePlay ) IMPACT ACTIUNE 1" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) IMPACT ACTIUNE 1
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKHdvsi_yAyoK2djXzPQJmPw
-#EXTINF:-1 xui-id="382978" tvg-id="" tvg-name="( OnePlay ) IMPACT ACTIUNE 2" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) IMPACT ACTIUNE 2
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKFiqCHv6_npzCbnJGtLYlXh
-#EXTINF:-1 xui-id="382979" tvg-id="" tvg-name="( OnePlay ) IMPACT ACTIUNE 3" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) IMPACT ACTIUNE 3
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKFxPHxzATCVwY8zOCba8EVZ
-#EXTINF:-1 xui-id="382980" tvg-id="" tvg-name="( OnePlay ) IMPACT ACTIUNE 4" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) IMPACT ACTIUNE 4
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKFELWKRAfo8aXbCWOYC17Q4
-#EXTINF:-1 xui-id="382981" tvg-id="" tvg-name="( OnePlay ) IMPACT HORROR 1" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) IMPACT HORROR 1
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKEcIm839rIesM1r84BJ598q
-#EXTINF:-1 xui-id="382982" tvg-id="" tvg-name="( OnePlay ) IMPACT HORROR 2" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) IMPACT HORROR 2
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKHhlRRo3aVbm98ctTQUOSOC
-#EXTINF:-1 xui-id="382983" tvg-id="" tvg-name="( OnePlay ) IMPACT HORROR 3" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) IMPACT HORROR 3
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKEH0Y4On8sINCzlFr07w_3u
-#EXTINF:-1 xui-id="382984" tvg-id="" tvg-name="( OnePlay ) IMPACT AVENTURA 1" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) IMPACT AVENTURA 1
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKFfod7C8_REPZJFkOKJ8usm
-#EXTINF:-1 xui-id="382985" tvg-id="" tvg-name="( OnePlay ) IMPACT AVENTURA 2" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) IMPACT AVENTURA 2
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKEva0nmvU_LtwLymRf5E5Es
-#EXTINF:-1 xui-id="382986" tvg-id="" tvg-name="( OnePlay ) IMPACT AVENTURA 3" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) IMPACT AVENTURA 3
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKGLTLnRUUV_Xbda7PumUY2K
-#EXTINF:-1 xui-id="382987" tvg-id="" tvg-name="( OnePlay ) IMPACT COMEDIE 1" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) IMPACT COMEDIE 1
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKEoVZXxp8HhqKWlHPCBBmfZ
-#EXTINF:-1 xui-id="382988" tvg-id="" tvg-name="( OnePlay ) IMPACT COMEDIE 2" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) IMPACT COMEDIE 2
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKEtjHG7KKsLq8uErRVzu4HA
-#EXTINF:-1 xui-id="382989" tvg-id="" tvg-name="( OnePlay ) IMPACT COMEDIE 3" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) IMPACT COMEDIE 3
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKGNNP2Neut8ZaUih814yVcF
-#EXTINF:-1 xui-id="382990" tvg-id="" tvg-name="( OnePlay ) IMPACT THRILLER 1" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) IMPACT THRILLER 1
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKH8PLQpoXHxQqvn5umf1Ete
-#EXTINF:-1 xui-id="382991" tvg-id="" tvg-name="( OnePlay ) IMPACT THRILLER 2" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) IMPACT THRILLER 2
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKG1AsDrBckBP_CT264iXm-H
-#EXTINF:-1 xui-id="382992" tvg-id="" tvg-name="( OnePlay ) IMPACT THRILLER 3" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) IMPACT THRILLER 3
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKEyYsUuyZno2mlcYPf7OK2q
-#EXTINF:-1 xui-id="382993" tvg-id="" tvg-name="( OnePlay ) IMPACT DRAMA 1" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) IMPACT DRAMA 1
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKHuWzdsv5hJEbzci_0O4p3L
-#EXTINF:-1 xui-id="382994" tvg-id="" tvg-name="( OnePlay ) IMPACT DRAMA 2" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) IMPACT DRAMA 2
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKGN1XLAvsk53nExhnyLKiwO
-#EXTINF:-1 xui-id="382995" tvg-id="" tvg-name="( OnePlay ) IMPACT DRAMA 3" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) IMPACT DRAMA 3
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKHShXRykvple6kQmG-fXLpG
-#EXTINF:-1 xui-id="382996" tvg-id="" tvg-name="( OnePlay ) IMPACT DRAMA 4" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) IMPACT DRAMA 4
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKFY-07om9EKlgzlrHhFbKGf
-#EXTINF:-1 xui-id="382997" tvg-id="" tvg-name="( OnePlay ) ONE CRIME" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) ONE CRIME
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKE4jp8pAe-bdQl8ZMUBNDfl
-#EXTINF:-1 xui-id="382998" tvg-id="" tvg-name="( OnePlay ) ONE SCI-FI" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) ONE SCI-FI
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKFtF3DeUHRCmFIavSNgTl9Q
-#EXTINF:-1 xui-id="382999" tvg-id="" tvg-name="( OnePlay ) ONE ACTIUNE" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) ONE ACTIUNE
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiF4p0rGjVA46vUE3Y9v8sKEJA5kM_v8oiO5h5Xk7FDT-
-#EXTINF:-1 xui-id="383000" tvg-id="" tvg-name="( OnePlay ) ONE AVENTURA" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) ONE AVENTURA
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaXfgB0_5cziaP9bz8s5J4mp
-#EXTINF:-1 xui-id="383001" tvg-id="" tvg-name="( OnePlay ) ONE TV MAX" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) ONE TV MAX
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaUA6CxozWS5eUgdgmm059l0
-#EXTINF:-1 xui-id="383002" tvg-id="" tvg-name="( OnePlay ) ONE TV BEST" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) ONE TV BEST
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaXHcNPS0FVMKntN22Row_eZ
-#EXTINF:-1 xui-id="383003" tvg-id="" tvg-name="( OnePlay ) ONE TV SUPER" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) ONE TV SUPER
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaXVmKisS82sPN_j2Nos-w4C
-#EXTINF:-1 xui-id="383004" tvg-id="" tvg-name="( OnePlay ) ONE CLASSIC" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) ONE CLASSIC
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaW9gCQE30xj2jbObVwRXjlh
-#EXTINF:-1 xui-id="383005" tvg-id="" tvg-name="( OnePlay ) NEXT AVENTURA" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) NEXT AVENTURA
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaUJuaQBXPY_shY3MM5OTPgq
-#EXTINF:-1 xui-id="383006" tvg-id="" tvg-name="( OnePlay ) NEXT SCI-FI" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) NEXT SCI-FI
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaWZJGzEbc_ztwwITVnlNPe9
-#EXTINF:-1 xui-id="383007" tvg-id="" tvg-name="( OnePlay ) NEXT 2022" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) NEXT 2022
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaX-1cXNHXdegNuf9PTdc86A
-#EXTINF:-1 xui-id="383008" tvg-id="" tvg-name="( OnePlay ) NEXT HORROR" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) NEXT HORROR
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaUV7mj5AVcGZotDl5j3g-_w
-#EXTINF:-1 xui-id="383009" tvg-id="" tvg-name="( OnePlay ) NEXT COMEDIE" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) NEXT COMEDIE
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaUxaYL3mzlI80Eb0hukIVEp
-#EXTINF:-1 xui-id="383010" tvg-id="" tvg-name="( OnePlay ) FluxRO ACTIUNE" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) FluxRO ACTIUNE
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaW0QsJ4eM2TYKub8QskQ_l6
-#EXTINF:-1 xui-id="383011" tvg-id="" tvg-name="( OnePlay ) FluxRO ACTIUNE 2" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) FluxRO ACTIUNE 2
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaV1NqvE0XjKIYrla1a36lD6
-#EXTINF:-1 xui-id="383012" tvg-id="" tvg-name="( OnePlay ) FluxRO WESTERN" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) FluxRO WESTERN
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaUmDu8a07St46bTft5iFb2I
-#EXTINF:-1 xui-id="383013" tvg-id="" tvg-name="( OnePlay ) FluxRO AVENTURA" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) FluxRO AVENTURA
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaX3rB1iPq2d6ymuJUMtrv-m
-#EXTINF:-1 xui-id="383014" tvg-id="" tvg-name="( OnePlay ) FluxRO COMEDIE" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) FluxRO COMEDIE
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaW-WVyNMVcooh7CMrA3A9hk
-#EXTINF:-1 xui-id="383015" tvg-id="" tvg-name="( OnePlay ) FluxRO SCI-FI" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) FluxRO SCI-FI
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaXRW9Fjmb27pM9SSbjjSE9y
-#EXTINF:-1 xui-id="383016" tvg-id="" tvg-name="( OnePlay ) FluxRO THRILLER" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) FluxRO THRILLER
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaV68JZ48KYpOJIl1DOEtsYX
-#EXTINF:-1 xui-id="383017" tvg-id="" tvg-name="( OnePlay ) FluxRO HORROR" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) FluxRO HORROR
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaUzxUzEON8YNrEjuv6YIwCg
-#EXTINF:-1 xui-id="383018" tvg-id="" tvg-name="( OnePlay ) FluxRO DRAMA" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) FluxRO DRAMA
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaV_weD3O_7t4KyQ-_W5QKja
-#EXTINF:-1 xui-id="383019" tvg-id="" tvg-name="( OnePlay ) FluxRO PREMIERE" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) FluxRO PREMIERE
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaUg8DGFRGLTrd8haqGnIsGB
-#EXTINF:-1 xui-id="383020" tvg-id="" tvg-name="( OnePlay ) FluxRO 4K" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) FluxRO 4K
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaXelMpux1LgqMMsEEJN6uez
-#EXTINF:-1 xui-id="383021" tvg-id="" tvg-name="( OnePlay ) FLY ACTIUNE" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) FLY ACTIUNE
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaV9n5NtV3yeqWvLaRk1Hfpq
-#EXTINF:-1 xui-id="383022" tvg-id="" tvg-name="( OnePlay ) FLY WESTERN" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) FLY WESTERN
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaXgdzRQ5_WUI2arRVwU0zv6
-#EXTINF:-1 xui-id="383023" tvg-id="" tvg-name="( OnePlay ) FLY AVENTURA" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) FLY AVENTURA
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaVlxJn_xsuuFV2uPLzZygPe
-#EXTINF:-1 xui-id="383024" tvg-id="" tvg-name="( OnePlay ) FLY BOX AVENTURA" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) FLY BOX AVENTURA
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaWPOxnut914NddJ1TM0VwZy
-#EXTINF:-1 xui-id="383025" tvg-id="" tvg-name="( OnePlay ) FLY FANTASY" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) FLY FANTASY
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaVW6pYrRoggCD-MlgiFuKSz
-#EXTINF:-1 xui-id="383026" tvg-id="" tvg-name="( OnePlay ) FLY COMEDIE" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) FLY COMEDIE
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaULPWOrlZR5pqfgsv2oskiP
-#EXTINF:-1 xui-id="383027" tvg-id="" tvg-name="( OnePlay ) FLY SCI FI" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) FLY SCI FI
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaWBpaS9sK-JmixyG4DiQVm7
-#EXTINF:-1 xui-id="383028" tvg-id="" tvg-name="( OnePlay ) FLY SCI-FI EXTRA" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) FLY SCI-FI EXTRA
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaXs6xMZs55jVML-JalGAjpq
-#EXTINF:-1 xui-id="383029" tvg-id="" tvg-name="( OnePlay ) FLY THRILLER" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) FLY THRILLER
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaX9Dr0n4CY8N7l3P4SWnUhc
-#EXTINF:-1 xui-id="383030" tvg-id="" tvg-name="( OnePlay ) FLY HORROR PLUS" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) FLY HORROR PLUS
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaVtNwmFGChD5_xk4eFSwis5
-#EXTINF:-1 xui-id="383031" tvg-id="" tvg-name="( OnePlay ) FLY HORROR" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) FLY HORROR
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaVF4Z8hgZ1vVYQc734H89Kh
-#EXTINF:-1 xui-id="383032" tvg-id="" tvg-name="( OnePlay ) FLY DRAMA-EXTRA" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) FLY DRAMA-EXTRA
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaUgKhdEfXt-GsIs9aOr4Nfu
-#EXTINF:-1 xui-id="383033" tvg-id="" tvg-name="( OnePlay ) FLY CINEMA" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) FLY CINEMA
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaXIuhWSXGVN23Fwecsu4VHC
-#EXTINF:-1 xui-id="383034" tvg-id="" tvg-name="( OnePlay ) FLY PREMIERE" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) FLY PREMIERE
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaV1Q4zRRKh1A5puRfjlwBK9
-#EXTINF:-1 xui-id="383035" tvg-id="" tvg-name="( OnePlay ) FLY COMEDY PLAY" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) FLY COMEDY PLAY
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaW4vYTFred-dWxv6IwOiJut
-#EXTINF:-1 xui-id="383036" tvg-id="" tvg-name="( OnePlay ) OldComedyChannels" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) OldComedyChannels
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaVg5nC5W8snV65be8NOIrJZ
-#EXTINF:-1 xui-id="383037" tvg-id="" tvg-name="( OnePlay ) KINO TV 4K" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) KINO TV 4K
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaU5nzTJTDaUizJl0TQXZvLs
-#EXTINF:-1 xui-id="383038" tvg-id="" tvg-name="( OnePlay ) KINO TV PREMIUM" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) KINO TV PREMIUM
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaXzwxGmgb4M2u-G2CsnVaTJ
-#EXTINF:-1 xui-id="383039" tvg-id="" tvg-name="( OnePlay ) KINO TV BEST MOVIES" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) KINO TV BEST MOVIES
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaVN6KpPWNozBhszm266XBzT
-#EXTINF:-1 xui-id="383040" tvg-id="" tvg-name="( OnePlay ) KINO TV MOVIES PLUS" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) KINO TV MOVIES PLUS
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaWJdJBGuErprT0Mq_yGR5Pg
-#EXTINF:-1 xui-id="383041" tvg-id="" tvg-name="( OnePlay ) KINO TV MAX MOVIES" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) KINO TV MAX MOVIES
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaVAj4Xn5UdOvA-68Y4dai4-
-#EXTINF:-1 xui-id="383042" tvg-id="" tvg-name="( OnePlay ) KINO TV MOVIES EXTRA" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) KINO TV MOVIES EXTRA
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaW3jB1WvysVqaNN7-qGZirh
-#EXTINF:-1 xui-id="383043" tvg-id="" tvg-name="( OnePlay ) KINO TV BOX MOVIES" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) KINO TV BOX MOVIES
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaXGwaUI6sIlICWGHzo-LvwM
-#EXTINF:-1 xui-id="383044" tvg-id="" tvg-name="( OnePlay ) KINO TV FILM" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) KINO TV FILM
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaXzCd636r6-EXxGlnyNR0rs
-#EXTINF:-1 xui-id="383045" tvg-id="" tvg-name="( OnePlay ) KINO TV ACTIUNE" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) KINO TV ACTIUNE
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaW36W-Me9nnVnQdXHJKUpN_
-#EXTINF:-1 xui-id="383046" tvg-id="" tvg-name="( OnePlay ) KINO TV KARATE EXTRA" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) KINO TV KARATE EXTRA
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaVW-JC6G_V9ui7dUjXBqaVA
-#EXTINF:-1 xui-id="383047" tvg-id="" tvg-name="( OnePlay ) KINO TV KARATE  PLUS" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) KINO TV KARATE  PLUS
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaXqNIdu59PJvD9M3MU7eCci
-#EXTINF:-1 xui-id="383048" tvg-id="" tvg-name="( OnePlay ) KINO TV KARATE" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) KINO TV KARATE
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaVRCJt852fbH6EfcPIs6Pks
-#EXTINF:-1 xui-id="383049" tvg-id="" tvg-name="( OnePlay ) KINO TV FIGHT" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) KINO TV FIGHT
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaXNHfgFGRa-TvvyLXOA2QS4
-#EXTINF:-1 xui-id="383050" tvg-id="" tvg-name="( OnePlay ) KINO TV AVENTURA" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) KINO TV AVENTURA
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaWEwgidEmGG5N4njHJGV6f8
-#EXTINF:-1 xui-id="383051" tvg-id="" tvg-name="( OnePlay ) KINO TV FANTASY" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) KINO TV FANTASY
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaXFMfoujnnEZ-h6R_M_ziKP
-#EXTINF:-1 xui-id="383052" tvg-id="" tvg-name="( OnePlay ) KINO TV COMEDIE" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) KINO TV COMEDIE
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaWQtkVx9Dx9bHj6KGx1zJnB
-#EXTINF:-1 xui-id="383053" tvg-id="" tvg-name="( OnePlay ) KINO TV THRILLER" tvg-logo="http://ilussionm3dia.com:80/images/gD6SH3C_pcnfosVtsnJZnO-qsstWJXZHaRKda6FdRXavYjWnuuFYi15OTLemv_yZpWJlMgdR91G1y0e_-w_yHQ.png" group-title="▶️ CINEMA TV 24/7",( OnePlay ) KINO TV THRILLER
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEgXxdmc8vt9wFtDeYfbcaWXX5kkje1ndi3uJ3AVdKxu
-#EXTINF:-1 xui-id="120079" tvg-id="" tvg-name="HdMovieRO 4K" tvg-logo="http://ilussionm3dia.com:80/images/fR5meWI3Qa8BA4NTpnuqSOMvY6FiZ4FMlvOgT-ygABhI1hWa-eKAJDF9dme-iqTyJlp6ermqWjnBYfTyqI8KAcg8UVTguy1A2RfzYKMC69g.png" group-title="▶️ CINEMA TV 24/7",HdMovieRO 4K
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiKxlLuPwxUUEIec3jQ9Eu3dUc0GQ5GxJ6z2ZX50jwqSr
-#EXTINF:-1 xui-id="120082" tvg-id="" tvg-name="HdMovie Thriller" tvg-logo="http://ilussionm3dia.com:80/images/fR5meWI3Qa8BA4NTpnuqSOMvY6FiZ4FMlvOgT-ygABhI1hWa-eKAJDF9dme-iqTyJlp6ermqWjnBYfTyqI8KAcg8UVTguy1A2RfzYKMC69g.png" group-title="▶️ CINEMA TV 24/7",HdMovie Thriller
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiKxlLuPwxUUEIec3jQ9Eu3cNTq_2EjK3WbS4uSrIwSMn
-#EXTINF:-1 xui-id="120084" tvg-id="" tvg-name="HdMovie Fantasy" tvg-logo="http://ilussionm3dia.com:80/images/fR5meWI3Qa8BA4NTpnuqSOMvY6FiZ4FMlvOgT-ygABhI1hWa-eKAJDF9dme-iqTyJlp6ermqWjnBYfTyqI8KAcg8UVTguy1A2RfzYKMC69g.png" group-title="▶️ CINEMA TV 24/7",HdMovie Fantasy
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiKxlLuPwxUUEIec3jQ9Eu3c-0yt1_SUsbvqWmL8gHIDC
-#EXTINF:-1 xui-id="120085" tvg-id="" tvg-name="HdMovie Comedy" tvg-logo="http://ilussionm3dia.com:80/images/fR5meWI3Qa8BA4NTpnuqSOMvY6FiZ4FMlvOgT-ygABhI1hWa-eKAJDF9dme-iqTyJlp6ermqWjnBYfTyqI8KAcg8UVTguy1A2RfzYKMC69g.png" group-title="▶️ CINEMA TV 24/7",HdMovie Comedy
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiKxlLuPwxUUEIec3jQ9Eu3d9OPPX7Oa0gt0hrC_UNkbf
-#EXTINF:-1 xui-id="120086" tvg-id="" tvg-name="HdMovie Bollywood" tvg-logo="http://ilussionm3dia.com:80/images/fR5meWI3Qa8BA4NTpnuqSOMvY6FiZ4FMlvOgT-ygABhI1hWa-eKAJDF9dme-iqTyJlp6ermqWjnBYfTyqI8KAcg8UVTguy1A2RfzYKMC69g.png" group-title="▶️ CINEMA TV 24/7",HdMovie Bollywood
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiKxlLuPwxUUEIec3jQ9Eu3durpmrTCzFPYlWf_lLSVRp
-#EXTINF:-1 xui-id="120083" tvg-id="" tvg-name="HdMovie WESTERN" tvg-logo="http://ilussionm3dia.com:80/images/fR5meWI3Qa8BA4NTpnuqSOMvY6FiZ4FMlvOgT-ygABhI1hWa-eKAJDF9dme-iqTyJlp6ermqWjnBYfTyqI8KAcg8UVTguy1A2RfzYKMC69g.png" group-title="▶️ CINEMA TV 24/7",HdMovie WESTERN
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiKxlLuPwxUUEIec3jQ9Eu3fpZsFpaExKIX6kv7PvxzDq
-#EXTINF:-1 xui-id="120081" tvg-id="" tvg-name="HdMovie WAR" tvg-logo="http://ilussionm3dia.com:80/images/fR5meWI3Qa8BA4NTpnuqSOMvY6FiZ4FMlvOgT-ygABhI1hWa-eKAJDF9dme-iqTyJlp6ermqWjnBYfTyqI8KAcg8UVTguy1A2RfzYKMC69g.png" group-title="▶️ CINEMA TV 24/7",HdMovie WAR
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiKxlLuPwxUUEIec3jQ9Eu3c5xr2fVdKGrKTysdeZL6J8
-#EXTINF:-1 xui-id="120080" tvg-id="" tvg-name="HdMovie JohnTravolta" tvg-logo="http://ilussionm3dia.com:80/images/fR5meWI3Qa8BA4NTpnuqSOMvY6FiZ4FMlvOgT-ygABhI1hWa-eKAJDF9dme-iqTyJlp6ermqWjnBYfTyqI8KAcg8UVTguy1A2RfzYKMC69g.png" group-title="▶️ CINEMA TV 24/7",HdMovie JohnTravolta
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiKxlLuPwxUUEIec3jQ9Eu3eSgpBsJ-OR21HYp2xWK_0Q
-#EXTINF:-1 xui-id="120078" tvg-id="" tvg-name="HdMovie Angelina Jolie" tvg-logo="http://ilussionm3dia.com:80/images/fR5meWI3Qa8BA4NTpnuqSOMvY6FiZ4FMlvOgT-ygABhI1hWa-eKAJDF9dme-iqTyJlp6ermqWjnBYfTyqI8KAcg8UVTguy1A2RfzYKMC69g.png" group-title="▶️ CINEMA TV 24/7",HdMovie Angelina Jolie
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiKxlLuPwxUUEIec3jQ9Eu3fINrH4X5HsoHzadWKRZejd
-#EXTINF:-1 xui-id="120087" tvg-id="" tvg-name="HdMovie Denzel Washington" tvg-logo="http://ilussionm3dia.com:80/images/fR5meWI3Qa8BA4NTpnuqSOMvY6FiZ4FMlvOgT-ygABhI1hWa-eKAJDF9dme-iqTyJlp6ermqWjnBYfTyqI8KAcg8UVTguy1A2RfzYKMC69g.png" group-title="▶️ CINEMA TV 24/7",HdMovie Denzel Washington
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiKxlLuPwxUUEIec3jQ9Eu3futgcSQ5lAxe2376tMHYt0
-#EXTINF:-1 xui-id="390572" tvg-id="" tvg-name="OPlayTv Religie" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ CINEMA TV 24/7",OPlayTv Religie
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEGiaTX2Vtd6-GbTUAboFRcAHi8w5Vto3zmSMzLWTigL
-#EXTINF:-1 xui-id="390573" tvg-id="" tvg-name="OPlayTv Documentare" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ CINEMA TV 24/7",OPlayTv Documentare
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEGiaTX2Vtd6-GbTUAboFRcVx4D96OFj4bju72hBJ0qM
-#EXTINF:-1 xui-id="390574" tvg-id="" tvg-name="OPlayTv Box Office" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ CINEMA TV 24/7",OPlayTv Box Office
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEGiaTX2Vtd6-GbTUAboFRc45peOoN_fJgDtN_HzMMV-
-#EXTINF:-1 xui-id="390575" tvg-id="" tvg-name="OPlayTv Cinema 4K" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ CINEMA TV 24/7",OPlayTv Cinema 4K
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEGiaTX2Vtd6-GbTUAboFRfvOz8lgL2dEY9CYtb7E7ZV
-#EXTINF:-1 xui-id="390576" tvg-id="" tvg-name="OPlayTv Filme 2023" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ CINEMA TV 24/7",OPlayTv Filme 2023
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEGiaTX2Vtd6-GbTUAboFRfNeeLEol7izs0TBTCdonBt
-#EXTINF:-1 xui-id="390577" tvg-id="" tvg-name="OPlayTv Filme 2022" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ CINEMA TV 24/7",OPlayTv Filme 2022
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEGiaTX2Vtd6-GbTUAboFRdUeU3V8F-sHuPVQAgduKgA
-#EXTINF:-1 xui-id="390578" tvg-id="" tvg-name="OPlayTv Filme De Craciun" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ CINEMA TV 24/7",OPlayTv Filme De Craciun
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEGiaTX2Vtd6-GbTUAboFRcGeDZI_Qsp2rAXcDqlJsBK
-#EXTINF:-1 xui-id="390579" tvg-id="" tvg-name="OPlayTv Netfix Series" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ CINEMA TV 24/7",OPlayTv Netfix Series
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEGiaTX2Vtd6-GbTUAboFRetlsWEpv_T6deB4RQKyFme
-#EXTINF:-1 xui-id="390580" tvg-id="" tvg-name="OPlayTv Marvel" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ CINEMA TV 24/7",OPlayTv Marvel
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEGiaTX2Vtd6-GbTUAboFRdyQvwVi62_HGZIMQmFJKH3
-#EXTINF:-1 xui-id="390581" tvg-id="" tvg-name="OPlayTv Aventura" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ CINEMA TV 24/7",OPlayTv Aventura
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEGiaTX2Vtd6-GbTUAboFRfT1wlmBcx0UtHqiFtW8pbD
-#EXTINF:-1 xui-id="390582" tvg-id="" tvg-name="OPlayTv Drama" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ CINEMA TV 24/7",OPlayTv Drama
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEGiaTX2Vtd6-GbTUAboFRdBm1e0dQF3aEa_emC2PulC
-#EXTINF:-1 xui-id="390583" tvg-id="" tvg-name="OPlayTv Psycho" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ CINEMA TV 24/7",OPlayTv Psycho
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEGiaTX2Vtd6-GbTUAboFRfBnYnrgHGb713wmoRPeNc0
-#EXTINF:-1 xui-id="390584" tvg-id="" tvg-name="OPlayTv War" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ CINEMA TV 24/7",OPlayTv War
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEGiaTX2Vtd6-GbTUAboFRfmmFQfeovrqM46O3v4M79a
-#EXTINF:-1 xui-id="390585" tvg-id="" tvg-name="OPlayTv Istorice" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ CINEMA TV 24/7",OPlayTv Istorice
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEGiaTX2Vtd6-GbTUAboFRckE8z7gGoRh2fWrPiwD5lQ
-#EXTINF:-1 xui-id="390586" tvg-id="" tvg-name="OPlayTv Thriller" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ CINEMA TV 24/7",OPlayTv Thriller
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEGiaTX2Vtd6-GbTUAboFRclBz2eRnaSZwFVvWEzbBxP
-#EXTINF:-1 xui-id="390587" tvg-id="" tvg-name="OPlayTv Comedie" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ CINEMA TV 24/7",OPlayTv Comedie
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEGiaTX2Vtd6-GbTUAboFReUw-5EMMQR9P-BT8n5IdYi
-#EXTINF:-1 xui-id="390588" tvg-id="" tvg-name="OPlayTv SF" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ CINEMA TV 24/7",OPlayTv SF
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEGiaTX2Vtd6-GbTUAboFRdRpd2xiIeGg_kwsI5gzD1V
-#EXTINF:-1 xui-id="390589" tvg-id="" tvg-name="OPlayTv Cinemarom" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ CINEMA TV 24/7",OPlayTv Cinemarom
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEGiaTX2Vtd6-GbTUAboFRduDTbMlCRG2dqiA3biwbdz
-#EXTINF:-1 xui-id="390590" tvg-id="" tvg-name="OPlayTv Stan si Bran" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ CINEMA TV 24/7",OPlayTv Stan si Bran
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEGiaTX2Vtd6-GbTUAboFRd8gv0aR04zzitX6W-iZrS-
-#EXTINF:-1 xui-id="390591" tvg-id="" tvg-name="OPlayTv Basme" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ CINEMA TV 24/7",OPlayTv Basme
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEGiaTX2Vtd6-GbTUAboFRfYCsLq5Yd5DaEkRC0S01Ph
-#EXTINF:-1 xui-id="390592" tvg-id="" tvg-name="OPlayTv Cinema 2021" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ CINEMA TV 24/7",OPlayTv Cinema 2021
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEGiaTX2Vtd6-GbTUAboFRduQ2G0Pgspddut3-hhKoPT
-#EXTINF:-1 xui-id="390593" tvg-id="" tvg-name="OPlayTv Serii Clasice" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ CINEMA TV 24/7",OPlayTv Serii Clasice
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEGiaTX2Vtd6-GbTUAboFRfKzxPzZoGO9uYdqCYL_7Yz
-#EXTINF:-1 xui-id="390594" tvg-id="" tvg-name="OPlayTv Spionaj" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ CINEMA TV 24/7",OPlayTv Spionaj
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEGiaTX2Vtd6-GbTUAboFRe7ZvhM7JJIbzs9dBBkcMaT
-#EXTINF:-1 xui-id="390595" tvg-id="" tvg-name="OPlayTv Trilogy" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ CINEMA TV 24/7",OPlayTv Trilogy
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEGiaTX2Vtd6-GbTUAboFRde52JowUx_ElaT9Wdtf_HL
-#EXTINF:-1 xui-id="390596" tvg-id="" tvg-name="OPlayTv Western" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ CINEMA TV 24/7",OPlayTv Western
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEGiaTX2Vtd6-GbTUAboFRdu25SoC1WxEhiJYWt3litu
-#EXTINF:-1 xui-id="390597" tvg-id="" tvg-name="OPlayTv Actiune" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ CINEMA TV 24/7",OPlayTv Actiune
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEGiaTX2Vtd6-GbTUAboFRfQaGOl2Bt-1Yx4SQRxhLJE
-#EXTINF:-1 xui-id="390598" tvg-id="" tvg-name="OPlayTv Arte Martiale" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ CINEMA TV 24/7",OPlayTv Arte Martiale
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEGiaTX2Vtd6-GbTUAboFRf2_PDCZKEtfHkHNLq5ktY1
-#EXTINF:-1 xui-id="390599" tvg-id="" tvg-name="OPlayTv Mister" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ CINEMA TV 24/7",OPlayTv Mister
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiEGiaTX2Vtd6-GbTUAboFRe-yO4LZFMIyVaVxZ7hO0f0
-#EXTINF:-1 xui-id="390600" tvg-id="" tvg-name="OPlayTv Romantic" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ CINEMA TV 24/7",OPlayTv Romantic
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiNSbdZV2BFI8teJpmy2aPMtFSyKYofrJpoj0mCJ0jb2w
-#EXTINF:-1 xui-id="390601" tvg-id="" tvg-name="OPlayTv Horror" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ CINEMA TV 24/7",OPlayTv Horror
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiNSbdZV2BFI8teJpmy2aPMvIckOJZzE1hSe7eVs3o77B
-#EXTINF:-1 xui-id="390602" tvg-id="" tvg-name="OPlayTv Comedie Clasica" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ CINEMA TV 24/7",OPlayTv Comedie Clasica
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiNSbdZV2BFI8teJpmy2aPMvIoSFZu9Knwnj2dLewkEOL
-#EXTINF:-1 xui-id="390603" tvg-id="" tvg-name="OPlayTv Filme din Copilarie" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ CINEMA TV 24/7",OPlayTv Filme din Copilarie
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiNSbdZV2BFI8teJpmy2aPMupEbjhhA9SXDC6hhj9BwfC
-#EXTINF:-1 xui-id="390604" tvg-id="" tvg-name="OPlayTv Cine DE Colectie" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ CINEMA TV 24/7",OPlayTv Cine DE Colectie
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiNSbdZV2BFI8teJpmy2aPMuKt2gFKJGgOXGtcHUwQD2q
-#EXTINF:-1 xui-id="390605" tvg-id="" tvg-name="OPlayTv Bollywood" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="▶️ CINEMA TV 24/7",OPlayTv Bollywood
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiNSbdZV2BFI8teJpmy2aPMtRrrOLJOLHCMSTO8juJLFY
-#EXTINF:-1 xui-id="246976" tvg-id="" tvg-name="✦ Canale Documentare ✦" tvg-logo="https://www.dropbox.com/scl/fi/r3on3huyb1bjotmaahwis/1702143179647.jpg?rlkey=gudcjaigoqhigmqkd3o3melbd&dl=1" group-title="☢️ DOKU & LIFESTYLE",✦ Canale Documentare ✦
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiG8d4Bup2kxzJCKofT_l40RmYwiOfaAJ98eBWdnBvyec
-#EXTINF:-1 xui-id="277769" tvg-id="" tvg-name="ASIAN STREET FOOD" tvg-logo="http://ilussionm3dia.com:80/images/NyNlIq4DiNtqKzQcn487hD2F8tt-T214k3NyXGIxAMtFGCZEQIhnG5M3y7u8FLzVqygMRmyDw0sVpOiXwGAnYwRFXt5VUMyuGB5tGwvrLDM.png" group-title="☢️ DOKU & LIFESTYLE",ASIAN STREET FOOD
-http://ilussionm3dia.com:80/play/O8Cz7nhLPJYXVSFLhxYqiC9KH5BG6SkcivYICwrPkeKmk7rnWaHSnUQz1-nLvR2R
-
-http://188.35.9.5:10005/stolen/153a/imposter.rar
+#EXTINF:-1 tvg-id="" tvg-name="Aladdin (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5aVfWCJTuaGEavTq5Nt9JpUhidi.jpg" group-title="⭐FILME-ACTIUNE⭐",Aladdin (2019)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85869.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bullet Head (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5aVfWCJTuaGEavTq5Nt9JpUhidi.jpg" group-title="⭐FILME-ACTIUNE⭐",Bullet Head (2017)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85870.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Liga gentlemenilor extraordinari (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdAuVFP63XXxnb983ry2pLCKd9S.jpg" group-title="⭐FILME-ACTIUNE⭐",Liga gentlemenilor extraordinari (2003)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85871.mkv
+#EXTINF:-1 tvg-id="" tvg-name="47 de metri adâncime: În afara cuștii (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4z7mDmJmx23vsVg6XNWcnXb6gc.jpg" group-title="⭐FILME-ACTIUNE⭐",47 de metri adâncime: În afara cuștii (2019)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85872.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Exit Wounds (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGIJhBejmredgUZRNdteZyiahag.jpg" group-title="⭐FILME-ACTIUNE⭐",Exit Wounds (2001)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85873.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Check Point (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVeCqZYoAq8SK0CtDxERo2Ze9co.jpg" group-title="⭐FILME-ACTIUNE⭐",Check Point (2017)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85874.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hellboy (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gvvn2Lx8DBE4NlZ5ig7CQWl7DrB.jpg" group-title="⭐FILME-ACTIUNE⭐",Hellboy (2019)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85875.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Liga Dreptății (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ctxP5BWSGNRNzd1tgMSrnfUCH9r.jpg" group-title="⭐FILME-ACTIUNE⭐",Liga Dreptății (2017)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85876.mkv
+#EXTINF:-1 tvg-id="" tvg-name="808 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mfghBh5F1kwwOc4xEzqAgqolppA.jpg" group-title="⭐FILME-ACTIUNE⭐",808 (2015)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85877.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rambo III (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hthdEIm96STiZYJ2XgI7c2bF216.jpg" group-title="⭐FILME-ACTIUNE⭐",Rambo III (1988)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85878.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ultimii cavaleri (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGqlk7Hu8FRLVDcFZ16NxTy09ZE.jpg" group-title="⭐FILME-ACTIUNE⭐",Ultimii cavaleri (2015)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85879.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Asian Connection (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/238oPc2NTSyecouDULg3WPHhabk.jpg" group-title="⭐FILME-ACTIUNE⭐",The Asian Connection (2016)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85880.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Reprisal (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qBsQUK5QSeZjRPLFUVgSGHxj2PI.jpg" group-title="⭐FILME-ACTIUNE⭐",Reprisal (2018)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85881.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UNLOCKED (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6VTHj2DcnyLYc28X9fQ7XbO9u3Q.jpg" group-title="⭐FILME-ACTIUNE⭐",UNLOCKED (2017)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85882.mkv
+#EXTINF:-1 tvg-id="" tvg-name="007: Partea lui de consolare (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aseMKrWPChmHhaRtrjtZQ0T0yem.jpg" group-title="⭐FILME-ACTIUNE⭐",007: Partea lui de consolare (2008)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85883.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ziua Z: Apocalipsa (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sBolTn9hbEx0jEzhsta7rumm6F.jpg" group-title="⭐FILME-ACTIUNE⭐",Ziua Z: Apocalipsa (2013)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85884.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Night Hunter (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVYU0x9FRpiJNX7c54ciFnRBVYG.jpg" group-title="⭐FILME-ACTIUNE⭐",Night Hunter (2019)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85885.mkv
+#EXTINF:-1 tvg-id="" tvg-name="G.I. Joe: Represalii (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tyFwwbsIvJCXrroOGdzBCz6lQ7t.jpg" group-title="⭐FILME-ACTIUNE⭐",G.I. Joe: Represalii (2013)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85886.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Waterworld - Lumea apelor (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncWwH4mvTXiwYKqCSXqbCGIwlXX.jpg" group-title="⭐FILME-ACTIUNE⭐",Waterworld - Lumea apelor (1995)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85887.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Silencer (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2TexorQvaskAkAGsRFYmIJbQnz.jpg" group-title="⭐FILME-ACTIUNE⭐",Silencer (2018)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85888.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Extraction (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/96FQG1MyR9mJFcvPBZAdfsVqaMO.jpg" group-title="⭐FILME-ACTIUNE⭐",Extraction (2015)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85889.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spionul care mă iubea (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ZxHKFxMYvAko680DsRgAZKWcLi.jpg" group-title="⭐FILME-ACTIUNE⭐",Spionul care mă iubea (1977)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85890.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Atribuirea (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZWVTNfAHeitKGGjmpAH1SJEmOM.jpg" group-title="⭐FILME-ACTIUNE⭐",Atribuirea (2010)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85891.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Taken 2: Teroare în Istanbul (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzAlcuJhpnxRPjaj7AHBRbNPQCJ.jpg" group-title="⭐FILME-ACTIUNE⭐",Taken 2: Teroare în Istanbul (2012)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85892.mkv
+#EXTINF:-1 tvg-id="" tvg-name="23:59 (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQGBK2mvw3x07MmwRR2J6fDADZ5.jpg" group-title="⭐FILME-ACTIUNE⭐",23:59 (2011)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85893.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Birth of the Dragon (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a7HY9butbuO8XwB3uBxQ98MBxd4.jpg" group-title="⭐FILME-ACTIUNE⭐",Birth of the Dragon (2017)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85894.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ticăloși fără glorie (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AauS4IwE60blpP19BZTNOhXrbl4.jpg" group-title="⭐FILME-ACTIUNE⭐",Ticăloși fără glorie (2009)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85895.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Începutul (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2CkUNEqIRGAwOC5jiKcQgKFjw87.jpg" group-title="⭐FILME-ACTIUNE⭐",Începutul (2010)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85896.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sub asediu (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/myHxm9p8fhEsXyaLO6DawYJKolg.jpg" group-title="⭐FILME-ACTIUNE⭐",Sub asediu (1992)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85897.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gladiatorul (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iVkzOYdEZrGSqX4xP4MsKnILQFv.jpg" group-title="⭐FILME-ACTIUNE⭐",Gladiatorul (2000)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85898.mkv
+#EXTINF:-1 tvg-id="" tvg-name="악녀 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2arvz5fsrE1BmlbjbBHSiLltlLq.jpg" group-title="⭐FILME-ACTIUNE⭐",악녀 (2017)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85899.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Final Mission (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2arvz5fsrE1BmlbjbBHSiLltlLq.jpg" group-title="⭐FILME-ACTIUNE⭐",Final Mission (1994)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85900.mkv
+#EXTINF:-1 tvg-id="" tvg-name="730 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ci1ojtrdSYvf4brGTbQ7IowO6n.jpg" group-title="⭐FILME-ACTIUNE⭐",730 (2015)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85901.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Death Race: Beyond Anarchy (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1PrlKvPUbDQAqFQBCyyt68hLLl.jpg" group-title="⭐FILME-ACTIUNE⭐",Death Race: Beyond Anarchy (2018)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85902.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Scăpați de Smart (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1Ja0T2sO2nGxxAS6sMXrByiBaU.jpg" group-title="⭐FILME-ACTIUNE⭐",Scăpați de Smart (2008)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85903.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Polițist la San Francisco (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nvfyHYv1EDpYai5pCGqBeRf3tax.jpg" group-title="⭐FILME-ACTIUNE⭐",Polițist la San Francisco (1997)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85904.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Walking with the Enemy (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/csYgiUFoZ82OO9CfeqJd8g7e56K.jpg" group-title="⭐FILME-ACTIUNE⭐",Walking with the Enemy (2014)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85905.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mecanicul (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3QMq8JvXWG0xlrWOUWBKHqVLUSf.jpg" group-title="⭐FILME-ACTIUNE⭐",Mecanicul (2011)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85906.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destruction: Los Angeles (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j0CW09HLnx2EUw9mFQOyOFfCsID.jpg" group-title="⭐FILME-ACTIUNE⭐",Destruction: Los Angeles (2017)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85907.mkv
+#EXTINF:-1 tvg-id="" tvg-name="In Hell (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vE2fYcP07fbIHoouATNErRQuNrw.jpg" group-title="⭐FILME-ACTIUNE⭐",In Hell (2003)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85908.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Equalizer (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rfXCFlXaVTRkOvsBog0gVdwGxP.jpg" group-title="⭐FILME-ACTIUNE⭐",Equalizer (2014)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85909.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Atribuirea (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/egFJGvUy7G5trYjY2ufrSSNTtLJ.jpg" group-title="⭐FILME-ACTIUNE⭐",Atribuirea (2016)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85910.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sub asediu 2: Teritoriul întunecat (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gElwFCQTbSK5hdK0PVyia547nst.jpg" group-title="⭐FILME-ACTIUNE⭐",Sub asediu 2: Teritoriul întunecat (1995)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85911.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Marine 3: Homefront (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dUiNIjDbbJX8dfNOZsgxg0LkyM3.jpg" group-title="⭐FILME-ACTIUNE⭐",The Marine 3: Homefront (2013)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85912.mkv
+#EXTINF:-1 tvg-id="" tvg-name="9023 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbvitdY6b9Ab3VLVXg0O3eCVwYK.jpg" group-title="⭐FILME-ACTIUNE⭐",9023 (2017)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85913.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Robin Hood: The Rebellion (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yYbJl9D2woKQTXVOaQs01Qs7CCa.jpg" group-title="⭐FILME-ACTIUNE⭐",Robin Hood: The Rebellion (2018)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85914.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Străinul (1964)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq0PJgkSiEyz3iskysZa3xG1Fw9.jpg" group-title="⭐FILME-ACTIUNE⭐",Străinul (1964)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85915.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ora de vârf 3 (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oPl5k4v110nWEocm1rtFd9a4ndm.jpg" group-title="⭐FILME-ACTIUNE⭐",Ora de vârf 3 (2007)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85916.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Și mai greu de ucis (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVWzGGNGf65jVbNGLrE1ajvyAFn.jpg" group-title="⭐FILME-ACTIUNE⭐",Și mai greu de ucis (2013)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85917.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Accident Man (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHFKej3Dbr8kGRSRHpkoFHq9TJQ.jpg" group-title="⭐FILME-ACTIUNE⭐",Accident Man (2018)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85918.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blood Father (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1VpEcYxo2T5qt5YMynfWZkctPR4.jpg" group-title="⭐FILME-ACTIUNE⭐",Blood Father (2016)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85919.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Logan (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1N1eqvSkL1gNBC8aqNmskfLjCsR.jpg" group-title="⭐FILME-ACTIUNE⭐",Logan (2017)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85920.mkv
+#EXTINF:-1 tvg-id="" tvg-name="7117 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/As4rgbUJkmizYpefeozyUXYrOx3.jpg" group-title="⭐FILME-ACTIUNE⭐",7117 (2018)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85921.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Armă mortală 2 (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Cc9XEKSnCTgrwVgjvgnL4bbjV0.jpg" group-title="⭐FILME-ACTIUNE⭐",Armă mortală 2 (1989)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85922.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Misiune sângeroasă (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmCtZp2FTvQBJPsqoGQSD20ZHpb.jpg" group-title="⭐FILME-ACTIUNE⭐",Misiune sângeroasă (2017)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85923.mkv
+#EXTINF:-1 tvg-id="" tvg-name="催眠大师 (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pwlNBRjHqTTWeP0HTfvFSVKxCSj.jpg" group-title="⭐FILME-ACTIUNE⭐",催眠大师 (2014)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85924.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Gunman (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Wi0xEjOBKvdmpSJElvciDRREHC.jpg" group-title="⭐FILME-ACTIUNE⭐",The Gunman (2004)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85925.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A doua șansă (1967)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdRbvRcEXcf2rC4ghLFZzCWPSmB.jpg" group-title="⭐FILME-ACTIUNE⭐",A doua șansă (1967)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85926.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lumea de dincolo: Evoluția (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yT1EDKhCzAumcZeBoAxqm0nY2H8.jpg" group-title="⭐FILME-ACTIUNE⭐",Lumea de dincolo: Evoluția (2006)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85927.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ploaia de oţel (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pC3Mcz2TPuXIkTrd8bolUgBm9GV.jpg" group-title="⭐FILME-ACTIUNE⭐",Ploaia de oţel (2017)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85928.mkv
+#EXTINF:-1 tvg-id="" tvg-name="One Way (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1cJmiDpBgjdqUY02mfDAKMBM5YB.jpg" group-title="⭐FILME-ACTIUNE⭐",One Way (2006)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85929.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Meciul vieţii (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/87PY0y58D6YxsLct3N5iQGWWx2I.jpg" group-title="⭐FILME-ACTIUNE⭐",Meciul vieţii (2018)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85930.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Testul suprem: Extractorii (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r15SUgzjL8bablcdEkHk9T7TSRl.jpg" group-title="⭐FILME-ACTIUNE⭐",Testul suprem: Extractorii (2019)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85931.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Drug War 2: Cannabis Destiny (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iti7ds7EgWd0dVIAGlK2QjXzvTp.jpg" group-title="⭐FILME-ACTIUNE⭐",American Drug War 2: Cannabis Destiny (2013)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85932.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cradle 2 the Grave (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8iXpVITXenqPG8gQ0lCFpUMtZIx.jpg" group-title="⭐FILME-ACTIUNE⭐",Cradle 2 the Grave (2003)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85933.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rechinii Ucigași (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fyn0zyCI4kIlbDoHH0Hzv09hDC5.jpg" group-title="⭐FILME-ACTIUNE⭐",Rechinii Ucigași (1999)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85934.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lacrimi din Soare (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fUnSSQukwTwBSdCbufEE36petLq.jpg" group-title="⭐FILME-ACTIUNE⭐",Lacrimi din Soare (2003)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85935.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Glimmer Man (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMXc2nf3iZFsVbNNmJ5MCtjcwlk.jpg" group-title="⭐FILME-ACTIUNE⭐",The Glimmer Man (1996)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85936.mkv
+#EXTINF:-1 tvg-id="" tvg-name="King Arthur: Legenda sabiei (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6CGMg2TWRqdIGsrlfKvW9ReNBx.jpg" group-title="⭐FILME-ACTIUNE⭐",King Arthur: Legenda sabiei (2017)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85937.mkv
+#EXTINF:-1 tvg-id="" tvg-name="7285 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6CGMg2TWRqdIGsrlfKvW9ReNBx.jpg" group-title="⭐FILME-ACTIUNE⭐",7285 (2015)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85938.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kickboxer: Vengeance (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9suFyXDE1MhZ8I8tuhmTd0fJ7G8.jpg" group-title="⭐FILME-ACTIUNE⭐",Kickboxer: Vengeance (2016)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85939.mkv
+#EXTINF:-1 tvg-id="" tvg-name="RocknRolla (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7eyngqjdvKB7NvrWtCjjTNNq8N.jpg" group-title="⭐FILME-ACTIUNE⭐",RocknRolla (2008)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85940.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samson (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7Zaj1IEzMMB7KzfglpxdXWB66u.jpg" group-title="⭐FILME-ACTIUNE⭐",Samson (2018)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85941.mkv
+#EXTINF:-1 tvg-id="" tvg-name="掃毒2 天地對決 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/YeESiCewZM7kpwuAyihLZhtfqP.jpg" group-title="⭐FILME-ACTIUNE⭐",掃毒2 天地對決 (2019)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85942.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alchimistul de Oțel (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/caGcgsmRTeaJkmt6HlBlGDVEuw9.jpg" group-title="⭐FILME-ACTIUNE⭐",Alchimistul de Oțel (2017)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85943.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Criminal (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/giLoZXfEzfQ8Y5rMuW2kPyk6Ah6.jpg" group-title="⭐FILME-ACTIUNE⭐",Criminal (2016)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85944.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tomb Invader (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTz0qaYuXIHBAUiwAqJZQxOgWlZ.jpg" group-title="⭐FILME-ACTIUNE⭐",Tomb Invader (2018)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85945.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Atac de ziua națională (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTby7l0zX7xG8Pt0eNrWBrNzdqX.jpg" group-title="⭐FILME-ACTIUNE⭐",Atac de ziua națională (2016)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85946.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Homefront: Orașul fără legi (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kEPYk3xw6MSYjOqk0sZSvYjRz37.jpg" group-title="⭐FILME-ACTIUNE⭐",Homefront: Orașul fără legi (2013)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85947.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Armed Response (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozhEmqMpJMPg6Rz9lJ0AFhZaGMI.jpg" group-title="⭐FILME-ACTIUNE⭐",Armed Response (2017)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85948.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Întâlnire explozivă (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1s1kThA3r2OHOWK8scPGp7E8iOF.jpg" group-title="⭐FILME-ACTIUNE⭐",Întâlnire explozivă (2010)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85949.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Triplu X (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg" group-title="⭐FILME-ACTIUNE⭐",Triplu X (2002)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85950.mkv
+#EXTINF:-1 tvg-id="" tvg-name="625 (1969)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5AEhO0y99PJkWGFudt0QAStAKl.jpg" group-title="⭐FILME-ACTIUNE⭐",625 (1969)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85951.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kongens nei (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/daKZmVgLlDwuO9sSRwevvh8alaS.jpg" group-title="⭐FILME-ACTIUNE⭐",Kongens nei (2016)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85952.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Minute pierdute (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i8lVYRplWdCEqYOutxpxeCtaD2a.jpg" group-title="⭐FILME-ACTIUNE⭐",Minute pierdute (2019)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85953.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Față în față (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A3kCa2QD74Myinp6QPQHMYkKOmb.jpg" group-title="⭐FILME-ACTIUNE⭐",Față în față (1997)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85954.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Toți oamenii răului (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pnlwh6CBBq5jB7G7OVxDsfz1b9v.jpg" group-title="⭐FILME-ACTIUNE⭐",Toți oamenii răului (2018)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85955.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batman se întoarce (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jKBjeXM7iBBV9UkUcOXx3m7FSHY.jpg" group-title="⭐FILME-ACTIUNE⭐",Batman se întoarce (1992)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85956.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Recuperatorul (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5XyuUPoIeEf3guWLQW9lATON84v.jpg" group-title="⭐FILME-ACTIUNE⭐",Recuperatorul (2018)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85957.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alianța zeilor (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aC6xWWNvc9vMx4uBzEDpsWMf22e.jpg" group-title="⭐FILME-ACTIUNE⭐",Alianța zeilor (2016)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85958.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Convergence (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aC6xWWNvc9vMx4uBzEDpsWMf22e.jpg" group-title="⭐FILME-ACTIUNE⭐",Convergence (2015)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85959.mkv
+#EXTINF:-1 tvg-id="" tvg-name="China Salesman (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbKuQPmXKxjVElsoY7KLIVLIOa8.jpg" group-title="⭐FILME-ACTIUNE⭐",China Salesman (2017)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85960.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Numărul patru (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vW0ErNbrID6Ac6unTz78XUoMwPf.jpg" group-title="⭐FILME-ACTIUNE⭐",Numărul patru (2011)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/85961.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Donnie Brasco (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xtKLvpOfARi1XVm8u2FTdhY5Piq.jpg" group-title="⭐FILME-ACTIUNE⭐",Donnie Brasco (1997)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/95813.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Copilul 44 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqGhMt31HVUN3WnH0L2r0OWq38E.jpg" group-title="⭐FILME-ACTIUNE⭐",Copilul 44 (2015)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/99507.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Iceman (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56KPE9tPYh2WBdnUMq9EIOwEXGQ.jpg" group-title="⭐FILME-ACTIUNE⭐",The Iceman (2012)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/99938.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mai aproape de Lună (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3sIjA3fmLtDEl0p4scRSVvRr8q.jpg" group-title="⭐FILME-ACTIUNE⭐",Mai aproape de Lună (2014)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/100377.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ziua șacalului (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vThgcb3JOj99yETg8WChuci4LV2.jpg" group-title="⭐FILME-ACTIUNE⭐",Ziua șacalului (1973)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/101171.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Povestea X a Americii (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2gsmSQ2Cqv8zosqKOCwRS0GFBS.jpg" group-title="⭐FILME-ACTIUNE⭐",Povestea X a Americii (1998)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/108326.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trădătorul (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsuqn1Ek51o6bopSKVRVwWUZWye.jpg" group-title="⭐FILME-ACTIUNE⭐",Trădătorul (2019)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/114713.mp4
+#EXTINF:-1 tvg-id="" tvg-name="L'ultimo padrino (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvdlXu1YjZhMUTcChn8kqsOElFZ.jpg" group-title="⭐FILME-ACTIUNE⭐",L'ultimo padrino (2008)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/114716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The International: Puterea banului (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1b73Cw99BnjJCeIIJGVxhdQmLv2.jpg" group-title="⭐FILME-ACTIUNE⭐",The International: Puterea banului (2009)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/119119.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mecanicul (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3QMq8JvXWG0xlrWOUWBKHqVLUSf.jpg" group-title="⭐FILME-ACTIUNE⭐",Mecanicul (2011)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/119191.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inamicul e aproape (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cSoNnB31hGY2mL78VT8mAbz6nR.jpg" group-title="⭐FILME-ACTIUNE⭐",Inamicul e aproape (2001)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/119258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Redbad (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AhhfzRFx8bwrGnz3KYNXfj4MQBr.jpg" group-title="⭐FILME-ACTIUNE⭐",Redbad (2018)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/119262.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Echelon Conspiracy (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQgT8kdjWJots3dX5Xy11le2vHk.jpg" group-title="⭐FILME-ACTIUNE⭐",Echelon Conspiracy (2009)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/119283.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eye In The Sky: Războiul Dronelor (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/faRGb9SuyGuZpsNRoIxoVSLLCId.jpg" group-title="⭐FILME-ACTIUNE⭐",Eye In The Sky: Războiul Dronelor (2015)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/119303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Witch.Part.2.The Other One" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cah6iIYQBctvCmBjsKGb1NCiygr.jpg" group-title="⭐FILME-ACTIUNE⭐",The Witch.Part.2.The Other One
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/120009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Commando (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ollPAAAgZ7euU8VisfqU3cuXhZ6.jpg" group-title="⭐FILME-ACTIUNE⭐",Commando (1985)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/120394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Blackout (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zd7N0j5LrBPhaB4tBTCQ21cFZaS.jpg" group-title="⭐FILME-ACTIUNE⭐",The Blackout (2019)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/121721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spectre (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/WPdhZjYqypHQhEje3t7n6ZGoOC.jpg" group-title="⭐FILME-ACTIUNE⭐",Spectre (2015)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/122880.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bomber (1982)" tvg-logo="http://luctv.net:8080/images/56c1a74dd3f57d5d0376a7df77f23892.jpg" group-title="⭐FILME-COMEDIE⭐",Bomber (1982)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/54645.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Action Point (2018)" tvg-logo="http://luctv.net:8080/images/6668d9e877c1f0f32c6d52aca64cb3e8.jpg" group-title="⭐FILME-COMEDIE⭐",Action Point (2018)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/54646.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Psych: The Movie (2017)" tvg-logo="http://luctv.net:8080/images/9969da60a02fc7e7513442a5ad6faa74.jpg" group-title="⭐FILME-COMEDIE⭐",Psych: The Movie (2017)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/54647.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Academia de poliție: Prima lor atribuire (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cIyvBInW2aGms0zyV9Pgwp9UPJ4.jpg" group-title="⭐FILME-COMEDIE⭐",Academia de poliție: Prima lor atribuire (1985)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/54648.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hevi reissu (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNvl7yhQsewu86idcP1A0s4m14e.jpg" group-title="⭐FILME-COMEDIE⭐",Hevi reissu (2018)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/54649.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Twin dragons (1992)" tvg-logo="http://luctv.net:8080/images/2078cb31c1a3e372335370871d43fd02.jpg" group-title="⭐FILME-COMEDIE⭐",Twin dragons (1992)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/54650.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deathgasm (2015)" tvg-logo="http://luctv.net:8080/images/35002000adc9c5819e4bef945e97f984.jpg" group-title="⭐FILME-COMEDIE⭐",Deathgasm (2015)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/54651.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jitterbugs (1943)" tvg-logo="http://luctv.net:8080/images/58a5b33ced4b62623e9d5d639a93d2b7.jpg" group-title="⭐FILME-COMEDIE⭐",Jitterbugs (1943)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/54652.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Singur acasă 2: Pierdut în New York (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg" group-title="⭐FILME-COMEDIE⭐",Singur acasă 2: Pierdut în New York (1992)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/54653.mkv
+#EXTINF:-1 tvg-id="" tvg-name="States (2019)" tvg-logo="http://luctv.net:8080/images/a0c7e7ed61c181522e34b653ad25f602.jpg" group-title="⭐FILME-COMEDIE⭐",States (2019)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/54654.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Farewell (2019)" tvg-logo="http://luctv.net:8080/images/902dff145cb9125981356a56133bb3b4.jpg" group-title="⭐FILME-COMEDIE⭐",The Farewell (2019)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/54655.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hai, că sunt belea! (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pzpMWC2hJ6Ut0UoEWIu9V0VRLsg.jpg" group-title="⭐FILME-COMEDIE⭐",Hai, că sunt belea! (2018)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/54656.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Despido procedente (2017)" tvg-logo="http://luctv.net:8080/images/035182010902ba3274448aadcd873f97.jpg" group-title="⭐FILME-COMEDIE⭐",Despido procedente (2017)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/54657.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tully (2018)" tvg-logo="http://luctv.net:8080/images/d95d1ab258da7c3bdb2a87a73622eb08.jpg" group-title="⭐FILME-COMEDIE⭐",Tully (2018)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/54658.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acest Crăciun (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/seBOEqEihJAm4sWaqQIAbYwlZhh.jpg" group-title="⭐FILME-COMEDIE⭐",Acest Crăciun (2007)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/54659.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mini-oamenii (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hBadbkjmJeuJ6k9Lj37g0dsxQAL.jpg" group-title="⭐FILME-COMEDIE⭐",Mini-oamenii (2017)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/54660.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Frații Sisters (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Tl2nZ6uvmxwK14Skbf9VFHEHpX.jpg" group-title="⭐FILME-COMEDIE⭐",Frații Sisters (2018)
+http://luctvspain.xyz:8080/movie/0903Adiu/0634793097/54661.mkv
