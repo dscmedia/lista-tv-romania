@@ -1,1 +1,10 @@
-
+#EXTM3U @LaQuay https://github.com/LaQuay/TDTChannels
+#EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz"
+#EXTINF:0,CRIME & INVESTIGATION
+https://vavoo.to/play/3814545508/index.m3u8
+#EXTINF:0,CRISTI1
+https://vavoo.to/play/3284771263/index.m3u8
+#EXTINF:0,CRISTI2
+https://vavoo.to/play/3284771263/index.m3u8
+#EXTINF:0,CRISTI3
+https://vavoo.to/play/4185632209/index.m3u8
