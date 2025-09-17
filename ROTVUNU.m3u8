@@ -1,10 +1,41 @@
-#EXTM3U @LaQuay https://github.com/LaQuay/TDTChannels
-#EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz"
-#EXTINF:0,CRIME & INVESTIGATION
-https://vavoo.to/play/3814545508/index.m3u8
-#EXTINF:0,CRISTI1
-https://vavoo.to/play/3284771263/index.m3u8
-#EXTINF:0,CRISTI2
-https://vavoo.to/play/3284771263/index.m3u8
-#EXTINF:0,CRISTI3
-https://vavoo.to/play/4185632209/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Antena_1_%282010%29.svg/867px-Logo_Antena_1_%282010%29.svg.png" group-title="Romania", Antena 1 HD
+http://update.miicrosoft.es:80/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/9051
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Antena_1_%282010%29.svg/867px-Logo_Antena_1_%282010%29.svg.png" group-title="Romania", Antena 1 FHD
+http://update.miicrosoft.es:80/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/8970
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Antena_1_%282010%29.svg/867px-Logo_Antena_1_%282010%29.svg.png" group-title="Romania", Antena 1 2K
+http://update.miicrosoft.es:80/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/8971
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Antena_1_%282010%29.svg/867px-Logo_Antena_1_%282010%29.svg.png" group-title="Romania", Antena 1 4K
+http://update.miicrosoft.es:80/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/13180
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Romania", Antena 1 HDR (Net Bun)
+http://update.miicrosoft.es:80/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/70447
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Romania", Pro TV SD
+http://update.miicrosoft.es:80/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/70428
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/1024px-Logo_Pro_TV_%282017%29.svg.png" group-title="Romania", Pro TV HD
+http://update.miicrosoft.es:80/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/9048
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/1024px-Logo_Pro_TV_%282017%29.svg.png" group-title="Romania", Pro TV FHD
+http://update.miicrosoft.es:80/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/8968
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/1024px-Logo_Pro_TV_%282017%29.svg.png" group-title="Romania", Pro TV 2K
+http://update.miicrosoft.es:80/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/9394
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/1024px-Logo_Pro_TV_%282017%29.svg.png" group-title="Romania", Pro Tv 4K
+http://update.miicrosoft.es:80/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/13181
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t4mkrkW/Pro-TV-HD-logo-2017.png" group-title="Romania", Pro TV HDR (Net Bun)
+http://update.miicrosoft.es:80/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/70448
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/1024px-Logo_Pro_TV_%282017%29.svg.png" group-title="Romania", Pro TV FHD
+http://update.miicrosoft.es:80/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/8969
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Romania", Kanal D SD
+http://update.miicrosoft.es:80/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/70427
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Romania", Kanal D HD
+http://update.miicrosoft.es:80/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/9064
