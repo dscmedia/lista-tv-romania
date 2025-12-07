@@ -1,24 +1,17 @@
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Antena_1_%282010%29.svg/867px-Logo_Antena_1_%282010%29.svg.png" group-title="Romania", Antena 1 HD
-http://c.proserver.in:8080/movie/rsvod/OKWfvUv6Ln/219947.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Antena_1_%282010%29.svg/867px-Logo_Antena_1_%282010%29.svg.png" group-title="Romania", Antena 1 FHD
-http://update.miicrosoft.es:80/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/8970
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Romania", Pro TV SD
-http://update.miicrosoft.es:80/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/70428
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/1024px-Logo_Pro_TV_%282017%29.svg.png" group-title="Romania", Pro TV HD
-http://update.miicrosoft.es:80/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/9048
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/1024px-Logo_Pro_TV_%282017%29.svg.png" group-title="Romania", Pro TV FHD
-http://update.miicrosoft.es:80/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/8968
-
-
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Romania", Kanal D SD
-http://update.miicrosoft.es:80/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/70427
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Romania", Kanal D HD
-http://update.miicrosoft.es:80/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/9064
+#EXTM3U
+#EXTINF:-1,TRALALA
+http://86.124.20.15:50001
+#EXTINF:-1,INFO TV ROMANIA
+http://86.124.20.15:50005
+#EXTINF:-1,TRALALA DSN
+http://86.124.20.15:50006
+#EXTINF:-1,KTV RO
+http://86.124.20.15:50010
+#EXTINF:-1,LOOLOO TV KIDS
+http://86.124.20.15:50013
+#EXTINF:-1,PROFI TV ROMANIA
+http://86.124.20.15:50014
+#EXTINF:-1,ZOM TRAVEL HD
+http://86.124.20.15:50018
+#EXTINF:-1,QTV QUANTUM ROMANIA
+http://86.124.20.15:50040
