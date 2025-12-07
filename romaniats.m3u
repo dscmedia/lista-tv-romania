@@ -1,346 +1,478 @@
-#EXTM3U x-tvg-url="http://195.154.221.171/epg/guideromania.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="Music Channel" tvg-language="Romanian" tvg-logo="https://i.imgur.com/PRgvj4c.png" group-title="Music",1 Music Channel
-https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="6 TV" tvg-language="Romanian" tvg-logo="https://i.imgur.com/f5Ddkx2.png" group-title="",6 TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$6TV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/n9igzhr.png" group-title="",Actualitatea TV
-http://46.214.146.46:81/tv4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/n9igzhr.png" group-title="",Actualitatea TV
-http://webmobile.xdev.ro:81/tv4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/6PCCvYh.png" group-title="",Acum TV
-http://webmobile.xdev.ro:81/tv9/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/6PCCvYh.png" group-title="",Acum TV
-http://webmobile.xdev.ro:81/tv9/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/p4rcHoe.png" group-title="",Agro TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$AgroTV/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/StJg6Pu.png" group-title="Religious",Alfa Omega TV
-http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8?wowzasessionid=1441530266&time=1463063123262
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/StJg6Pu.png" group-title="Religious",Alfa Omega TV
-http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/chunklist_w369018163_b780800.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/StJg6Pu.png" group-title="Religious",Alfa Omega TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$AlfaOmegaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="Alpha Mediao TV" tvg-language="Romanian" tvg-logo="https://i.imgur.com/dmdcwC6.png" group-title="",Alpha Media TV
-http://webmobile.xdev.ro:81/tv27/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alpha Media TV" tvg-language="Romanian" tvg-logo="https://i.imgur.com/dmdcwC6.png" group-title="",Alpha Media TV
-http://webmobile.xdev.ro:81/tv27/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Antena Comedy" tvg-language="Romanian" tvg-logo="https://i.imgur.com/tH624pc.png" group-title="Comedy",Antena Comedy
-http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://vignette.wikia.nocookie.net/catalinfonts/images/e/e5/Cook%26play_logo_2013.png" group-title="",Antena Cook and PLay
-http://stream1.antenaplay.ro/live/smil:CookPlay.smil/chunklist_w904193915_b1000000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Antena Monden" tvg-language="Romanian" tvg-logo="https://i.imgur.com/6R5TLlc.png" group-title="",Antena Monden
-http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="B1 RO" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/VQqgkzw.jpg" group-title="",B1
-http://stream.adunity.com/b1/b1.m3u8
-#EXTINF:-1 tvg-id="B1 RO" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/VQqgkzw.jpg" group-title="",B1
-http://stream.adunity.com/b1/b1_640-.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/5RcXm3M.png" group-title="",Bit TV
-http://46.214.146.46:81/tv2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/JZW1rg4.png" group-title="Movies",BO CLASIC
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/JZW1rg4.png" group-title="Movies",BO TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/7QHdiTO.png" group-title="",Bucovina TV
-http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/7QHdiTO.png" group-title="",Bucovina TV
-http://46.4.14.12:9999/btvsvlive/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/BxUibFh.png" group-title="",Canal33
-https://fms-https1.mediadirect.ro/live3/_definst_/canal33.smil/playlist.m3u8?publisher=83
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Tyrzwr2.png" group-title="",Columna TV
-rtmp://columna1.arya.ro/live/columnatv1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/AX5NsOv.jpg" group-title="Music",Credo TV
-http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/AX5NsOv.jpg" group-title="Music",Credo TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$CredoTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/XzChc5P.jpg" group-title="",Cromtel TV
-http://webmobile.xdev.ro:81/tv7/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/bKcsZBn/Diaspora-TV.png" group-title="",Diaspora TV
-http://diasporamedia.go.ro:1935/diasporatv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Lmbmx3y.png" group-title="",Elita TV
-http://46.55.111.242:8080/Rezina.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/xAmYapr.jpg" group-title="",Erdely TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$ErdelyTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/kQJ10r8/est-tv-ro.png" group-title="",EST TV Neamt
-http://89.38.8.130:39435
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/bJVG9HX/GTV.jpg" group-title="",GTV
-rtmp://gtv1.arya.ro:1935/live/gtv1.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/JK6Rypn.jpg" group-title="",Iasi TV Life
-http://webmobile.xdev.ro:81/tv24/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/JK6Rypn.jpg" group-title="",Iasi TV Life
-http://webmobile.xdev.ro:81/tv24/playlist.m3u8?time=1464028219168
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/0j1matP.jpg" group-title="",Inedit
-http://telekomtv-ro.akamaized.net/shls/LIVE$IneditTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/xfMpRfy/Infinit-tv.jpg" group-title="",Infinit TV
-http://webmobile.xdev.ro:81/tv6/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/RiZA8Yu.png" group-title="",Info HD
-http://163.172.172.80:8080/hls/InfoHd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Intermedia TV" tvg-language="Romanian" tvg-logo="https://i.imgur.com/jo5fei5.png" group-title="",Intermedia TV
-http://46.4.14.12:9999/intermedia1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/b8bgnx7.jpg" group-title="",Kaptial TV
-http://163.172.172.80:8080/hls/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/N162WWZ/mdi-tv-ro.jpg" group-title="",MDI TV
-rtmp://89.33.78.174/live/livestream
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/fw2fTCA.jpg" group-title="Music",MOOZ Dance
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/3alPZ8X.jpg" group-title="Music",MOOZ HD
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/K7jP9r1.jpg" group-title="Music",MOOZ Hits
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/cgJNpv9.png" group-title="Music",MOOZ RO
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/tm4gMJF/Muscel-TV-RO.png" group-title="",Muscel TV
-mmsh://musceltvlive.muscel.ro:8080
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/ZUOylvd.png" group-title="",NEst TV
-http://webmobile.xdev.ro:81/tv13/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/kyy7qvk/Orizont-TV-RO.png" group-title="",Orizont TV
-http://89.45.164.236:8048/stream.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/2dgyYGy/Ploiesti-TV.jpg" group-title="",Ploiesti TV
-rtmp://v1.arya.ro:1935/live/ptv1.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="" group-title="",Pro X
-http://stream1.protv.ro/news/stream:1.stream/chunklist_w1582750279.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="" group-title="",Pro X
-http://vid.hls.protv.ro/protvnews/protvnews.m3u8?1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/xM1dw57.png" group-title="",Profit.ro
-https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/TH1T2Y2/Rapsodia-TV.png" group-title="",Rapsodia TV
-rtmp://rapsodia1.arya.ro/live/rapsodiatv1
-#EXTINF:-1 tvg-id="Realitatea TV RO" tvg-name="Realitatea TV RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/dn1E2cE.png" group-title="",Realitatea TV
-http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/qFE5PUx.png" group-title="",Sangeorz TV
-http://s2.streamnet.ro:8035/stream.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/3LdXQxm.png" group-title="",Somax TV
-http://webmobile.xdev.ro:81/tv12/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/3LdXQxm.png" group-title="",Somax TV
-http://webmobile.xdev.ro:81/tv12/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="",Speranta TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$SperantaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/qSd8DTI.png" group-title="",Telestar1
-http://s1.streamnet.ro:8053/stream.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/1SapDQU.jpg" group-title="",Tezaur TV
-http://86.125.216.66:1935/live/_definst_/tezaurtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/LZYnpH6/Traditii-TV-RO.png" group-title="",TraditiiTV
-rtmp://traditii1.arya.ro/live/traditiitv1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/VMbKQCr/travel-mix-RO.jpg" group-title="",TravelMix
-http://89.38.8.131:39520
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/0CbAlXu.png" group-title="",TV CITY
-http://telekomtv-ro.akamaized.net/shls/LIVE$TVCITY/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/44ZcVs5/tv-se-mangalia-ro.jpg" group-title="",TV SE
-http://89.38.8.130:39419
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/6T7w975.png" group-title="",TVPlus Suceava
-http://85.186.146.34:8080
-#EXTINF:-1 tvg-id="TVR 1 RO" tvg-name="TVR 1 RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/xyu1yKB.png" group-title="",TVR 1
-http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVR 2 RO" tvg-name="TVR 2 RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/ASFXz4f.png" group-title="",TVR 2
-http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVR 3 RO" tvg-name="TVR 3 RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/pb2nnKU.png" group-title="",TVR 3
-http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVR Cluj RO" tvg-name="TVR Cluj RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/2QPJrkY.png" group-title="",TVR Cluj
-http://89.136.209.26:1935/liveedge/TVRCLUJ.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVR Craiova RO" tvg-name="TVR Craiova RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/zFYfPjp.png" group-title="",TVR Craiova
-http://89.136.209.26:1935/liveedge/TVRCRAIOVA.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVR HD RO" tvg-name="TVR HD RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/ouVOW2q.png" group-title="",TVR HD
-http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVR HD RO" tvg-name="TVR HD RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/ouVOW2q.png" group-title="",TVR HD
-http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="TVR Iasi RO" tvg-name="TVR Iasi RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/zFYfPjp.png" group-title="",TVR Iasi
-http://82.208.151.107:8088/high/tvriasi/index.m3u8
-#EXTINF:-1 tvg-id="TVR Timisoara RO" tvg-name="TVR Timisoara RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/EA98bRr.png" group-title="",TVR Timisoara
-http://89.136.209.26:1935/liveedge/TVRTIMISOARA.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/PFqmmSp/TVSat-RO.png" group-title="",TVSat
-http://89.38.8.130:39443
-#EXTINF:-1 tvg-id="U TV RO" tvg-name="U TV RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/n0fNQkb.png" group-title="Music",UTV
-http://81.196.0.126/utvedge/utvlive/playlist.m3u8
-#EXTINF:-1 tvg-id="U TV RO" tvg-name="U TV RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/n0fNQkb.png" group-title="Music",UTV
-http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8?GrupoTopIptv
-#EXTINF:-1 tvg-id="U TV RO" tvg-name="U TV RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/n0fNQkb.png" group-title="Music",UTV
-http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-id="U TV RO" tvg-name="U TV RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/n0fNQkb.png" group-title="Music",UTV
-http://81.196.0.126:80/utvedge/utvlive/index.m3u8
-#EXTINF:-1 tvg-id="U TV RO" tvg-name="U TV RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/n0fNQkb.png" group-title="Music",UTV
-http://82.76.40.76:80/utvedge/utvlive/playlist.m3u8
-#EXTINF:-1 tvg-id="U TV RO" tvg-name="U TV RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/n0fNQkb.png" group-title="Music",UTV
-http://edge76.rcs-rds.ro/utvedge/utvlivehls/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/Rb2ff23/VPTV-RO.png" group-title="",VP TV
-http://89.38.8.130:39437
-#EXTINF:-1 tvg-logo="http://www.crestinulazi.ro/wp-content/uploads/2010/02/alfa-omega-logo.png" group-title="STIRI",[COLOR lawngreen]Http.[/COLOR][COLOR lawngreen]# 1[/COLOR]AlfaOmegaTV
-http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
-#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/cinemaraton.jpg" group-title="STIRI",[COLOR lawnred]Http.[/COLOR][COLOR lawnred]# 1[/COLOR]Cinemaraton
-https://cmn.digitalcable.ro/free/cm/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/vSnm-EQXOfo/maxresdefault.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] TVR 1🇷🇴
-http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr2.tvr.ro/images/logo_main_tvr2.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] TVR 2🇷🇴
-http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr3.tvr.ro/images/logo_main_tvr3.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] TVR 3🇷🇴
-http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="http://stvron.com/canale/mari/tvr-moldova.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]TVR Moldova🇷🇴
-http://89.136.209.26:1935/liveedge/TVRMOLDOVA.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/National_TV.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] National TV🇷🇴
-http://tv-he.orange.ro/shls/LIVE$nationaltv/10.m3u8/Level%282306867%29?start=LIVE&end=END
-#EXTINF:-1 tvg-ID="PROTV.ro" tvg-name="RO: Pro TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pro_tv.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Pro TV🇷🇴
-https://vid.hls.protv.ro/protvhdn/protvhd_2_34/index.m3u8?1
-#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/1200px-logo_pro_tv_international-2017-svg.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Pro Tv International🇷🇴
-http://78.109.108.62:2001/protv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FWM790Y.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Pro TV News🇷🇴
-http://vid.hls.protv.ro/protvnews/protvnews.m3u8?1
-#EXTINF:0 tvg-logo="https://adevarul.ro/assets/adevarul.ro/MRImage/2017/05/25/5926ccb25ab6550cb86f7cb0/646x404.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Pro TV Chisinau🇷🇴
-http://hls.protv.md/hls/protv.m3u8
-#EXTINF:0 tvg-logo="http://www.frocus.net/images/logotv/original/ntv-moldova.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Pro TV Moldova🇷🇴
-http://188.138.235.61:80/hls/protv.m3u8
-#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/1280px-Logo_Pro_X-2017-svg.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Pro X🇷🇴
-https://vid.hls.protv.ro/proxhdn/proxhd_2_34/index.m3u8?1
-#EXTINF:-1 tvg-id="" tvg-name="DIGI 24 HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/397.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] DIGI 24 HD🇷🇴
-http://81.196.0.126/digi24edge/digi24hdhqhls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-diL-ndtqU2A/WFTv1oXXObI/AAAAAAAANW4/HA5iscL25ycSaAvOWzGK1vnCP5KpXCBTACLcB/s1600/B1tvrom.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] B1🇷🇴
-http://193.228.153.231:4242/bysid/70
-#EXTINF:#1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/romania_tv_ro.png" group-title="STIRI",[COLOR brown]Http.[/COLOR][COLOR brown]# 1[/COLOR] Romania Tv
-http://193.228.153.231:4243/bysid/125
-#EXTINF:-1 tvg-ID="Antena 3" tvg-name="RO: Antena 3" tvg-logo="https://iptvsensation.org/picons/antena3.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Antena 3🇷🇴 
-http://193.228.153.231:4240/bysid/120
-#EXTINF:-1 tvg-ID="RealitateaTV.ro" tvg-name="RO: Realitatea Tv" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/realitatea_tv.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Realitatea Tv🇷🇴
-http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
-#EXTINF:-1 tvg-ID="Antena1.ro" tvg-name="RO: Antena 1" tvg-logo="https://iptvsensation.org/picons/antena1.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Antena 1🇷🇴
-http://193.228.153.231:4240/bysid/40
-#EXTINF:-1 tvg-ID="KanalD.ro" tvg-name="RO: Kanal D" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_d_tr.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Kanal D🇷🇴
-http://193.228.153.231:4240/bysid/50
-#EXTINF:0 tvg-logo="https://frccf.org.ro/wp-content/uploads/2016/07/PRIMA-TV.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Prima TV🇷🇴
-http://193.228.153.231:4242/bysid/60
-#EXTINF:0 tvg-logo="https://restxyz.akta.ro/assets/images/comedyest_poster.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]COMEDY EST🇷🇴
-https://cmn.digitalcable.ro/free/comedyest/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.canadalandshow.com/wp-content/uploads/2017/02/cbc_comedy_jpeg.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Comedy Play🇷🇴
-#EXTVLCOPT:network-caching=1000
-http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/chunklist_w899209015_b1000000.m3u8
-#EXTINF:#1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAYV4Dm-YxpHIFgUIUHEQ15duuczTDtgichYQArF1k_oAu7hg_mg",[COLOR blue]          ***      [/COLOR][COLOR red][B]      FILME    [/B][/COLOR][COLOR red]       ***[/COLOR]  
-http://0.0.0.0:1234
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_Pro_2_%282017%29.svg/800px-Logo_Pro_2_%282017%29.svg.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Pro 2 
-https://vid.hls.protv.ro/pro2n/pro2_3_34/index.m3u8?1
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Logo_Pro_Gold_%282017%29.svg/1280px-Logo_Pro_Gold_%282017%29.svg.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Pro Gold
-https://vid.hls.protv.ro/progoldn/progold_3_34/index.m3u8?1
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Pro_Cinema_logo_2014.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Pro Cinema
-https://vid.hls.protv.ro/procineman/procinema_3_34/index.m3u8?1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Paramount Channel
-http://tv-he.orange.ro/shls/LIVE$paramountchannel/10.m3u8/Level%282306867%29?start=LIVE&end=END
-#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Cinemax
-http://alltvplay.ml/hlsjwt/162a92430958d8100bd732ca0ee8e17e8be8c0dc-2358-0-fol1971-None-860146829-1580278791--qzKWCkrtXYFGYy55V_vdk9d8inv1tJebkWmSMnF1SM4/index.m3u8
-#EXTINF:-1 tvg-ID="Cinemax2.ro" tvg-name="RO: Cinemax 2" tvg-logo="http://www.iptvsensation.org/picons/cinemax2.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Cinemax 2
-#EXTVLCOPT:network-caching=1000
-http://alltvplay.ml/hlsjwt/692a4de2e860ac5a0e66f6a61dfbc39ae30d3b3c-2359-0-fol1971-None-860146829-1580278833--WJMOiWI2QExV5es1pW8L6KjtGyR2iVRq1JrsTsjpppw/index.m3u8
-#EXTINF:-1 tvg-ID="AXN" tvg-name="RO: AXN" tvg-logo="https://iptvsensation.org/picons/axn.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] AXN
-http://82.76.40.81/digiedge2/smil:axn.smil/playlist.m3u8?is=44&src=app&t=00000000000000000000000000000000
-#EXTINF:-1 tvg-ID="AXN Black" tvg-name="RO: AXN Black" tvg-logo="https://iptvsensation.org/picons/axnblack.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] AXN Black
-http://edge81.rdsnet.ro/digiedge2/axnblackehq/index.m3u8?is=45&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1 tvg-ID="AXN White" tvg-name="RO: AXN White" tvg-logo="https://iptvsensation.org/picons/axnwhite.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] AXN White
-http://edge81.rdsnet.ro/digiedge2/axnwhiteehq/index.m3u8?is=46&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1 tvg-ID="AXN Spin" tvg-name="RO: AXN SPIN" tvg-logo="https://iptvsensation.org/picons/axnspin.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] AXN SPIN
-http://edge81.rcs-rds.ro/digiedge2/axnspinehq/chunklist_w437727442.m3u8?is=57&src=digi-online.ro&t=00000000000000000000000000000000&q=hq&s=axnspin&p=browser&pe=site
-#EXTINF:-1 tvg-ID="AMC.ro" tvg-name="RO: AMC FHD" tvg-logo="https://iptvsensation.org/picons/amchd.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] AMC FHD 
-http://avatar-iptv.net:80/yTZBoeWYmM/Sdq6ioDf9V/34142
-#EXTINF:0 tvg-logo="http://ott.onlineott.tv/logos/1153.png" group-title="FILME",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Epic Drama
-http://edge81.rcs-rds.ro/digiedge3/epicdramaehq/index.m3u8?is=95&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Film_cafe_hu.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Film Cafe 
-http://edge81.rdsnet.ro/digiedge3/filmcafeemq/chunklist_w1201989155.m3u8?is=94&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/TV1000_4.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Tv 1000 
-http://5.255.90.252:5004/play/a05j
-#EXTINF:-1 tvg-ID="TNT" tvg-name="RO: TNT" tvg-logo="http://iptvsensation.org/picons/tnt.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] TNT
-http://edge81.rcs-rds.ro/digiedge3/tntehq/index.m3u8?is=91&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1 tvg-ID="HBO" tvg-name="RO: HBO HD" tvg-logo="https://iptvsensation.org/logo/ro/HBO.ro.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] HBO
-http://ilnuovolook.xyz:80/live/amy3_bf14a8/940354/80770.ts
-#EXTINF:-1 tvg-ID="HBO" tvg-name="RO: HBO HD" tvg-logo="https://iptvsensation.org/logo/ro/HBO.ro.png" group-title="STIRI",[COLOR red]Http.[/COLOR][COLOR red]# 2[/COLOR] HBO Family
-http://dragoniptv.club:8080/live/Kara/Kara/6255.m3u8
-#EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/doblaje/images/3/3b/HBO2_logo.png/revision/latest?cb=20160102183730&path-prefix=es" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Hbo 2
-http://ilnuovolook.xyz:80/live/amy3_bf14a8/940354/80772.ts
-#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/HBO3_gradient.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] HBO 3
-http://ilnuovolook.xyz:80/live/amy3_bf14a8/940354/80771.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8G83qZu.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]BO CLASSIC
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d8mJYu0.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]BO TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d8mJYu0.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Bollywood HD
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:-1 tvg-ID="ComedyCentral.ro" tvg-name="IT: Comedy Central" tvg-logo="http://iptvsensation.org/picons/comedycentrald.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Comedy Central
-http://edge81.rdsnet.ro/digiedge3/comedycentralehq/index.m3u8?is=58&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0 tvg-logo="https://www.infotravelromania.ro/foto%20mic/emisiuni_tv/travel-mix-channel.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Travel Mixt
-http://89.38.8.131:39520
-#EXTINF:-1 tvg-ID="DigiLife.ro" tvg-name="RO: Digi Life" tvg-logo="https://iptvsensation.org/picons/digilife.png" group-title="GENERALE",[COLOR red]Http.[/COLOR][COLOR red]# 1[/COLOR] Digi Life
-http://edge81.rdsnet.ro/digiedge2/digilifeehq/index.m3u8?is=6&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:#1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logo_Sport.svg/1280px-Logo_Sport.svg.png",[COLOR red]          ***      [/COLOR][COLOR red][B]      SPORT       [/B][/COLOR][COLOR red]       ***[/COLOR]  
-http://0.0.0.0:12346
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Logo_Telekom_Sport_1_%282017%29.svg/950px-Logo_Telekom_Sport_1_%282017%29.svg.png" group-title="STIRI",[COLOR deeppink]Http.[/COLOR][COLOR deeppink]# 1[/COLOR]Telekom Sport 1
-http://telekomtv-ro.akamaized.net/shls/LIVE$DolceSportHD/247.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:-1,RO: Telekom Sport 2🇷🇴
-http://ok2.se:80/ff45F7U4LTT7lRRx6/1debF9UuLUYeXMsZJ/77365
-#EXTINF:-1,RO: Telekom Sport 3🇷🇴
-http://ok2.se:80/ff45F7U4LTT7lRRx6/1debF9UuLUYeXMsZJ/77333
-#EXTINF:-1,RO: Telekom Sport 4🇷🇴
-http://ok2.s
-#EXTINF:-1,RO: Telekom Sport 5🇷🇴
-http://avatar-iptv.net:80/yTZBoeWYmM/Sdq6ioDf9V/34156
-
-#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/DIGI_Sport_1.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Digi Sport 1 
-http://82.76.40.81/digiedge/smil:digisport1.smil/playlist.m3u8?is=1&src=app&t=00000000000000000000000000000000
-#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Digi_Sport_2.png" group-title="STIRI",[COLOR deeppink]Http.[/COLOR][COLOR deeppink]# 1[/COLOR]Digi Sport 2
-http://82.76.40.81/digiedge/digisport2emq/index.m3u8?is=2&src=digi-online.ro&t=00000000000000000000000000000000&q=mq&s=digisport2&p=browser&pe=site
-#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Digi_Sport_2.png" group-title="STIRI",[COLOR deeppink]Http.[/COLOR][COLOR deeppink]# 1[/COLOR]Digi Sport 2
-http://82.76.40.81/digiedge/digisport2elq/index.m3u8?is=2&src=digi-online.ro&t=00000000000000000000000000000000&q=lq&s=digisport2&p=browser&pe=site
-#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Digi_sport3_hu.png" group-title="STIRI",[COLOR deeppink]Http.[/COLOR][COLOR deeppink]# 1[/COLOR]Digi Sport 3
-http://82.76.40.81/digiedge/digisport3emq/index.m3u8?is=3&src=digi-online.ro&t=00000000000000000000000000000000&q=mq&s=digisport3&p=browser&pe=site
-#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Digi_sport3_hu.png" group-title="STIRI",[COLOR deeppink]Http.[/COLOR][COLOR deeppink]# 1[/COLOR]Digi Sport 3
-http://82.76.40.81/digiedge/digisport3elq/index.m3u8?is=3&src=digi-online.ro&t=00000000000000000000000000000000&q=lq&s=digisport3&p=browser&pe=site
-#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/digisport-4.png" group-title="STIRI",[COLOR deeppink]Http.[/COLOR][COLOR deeppink]# 1[/COLOR]Digi Sport 4
-http://82.76.40.81/digiedge/digisport4emq/index.m3u8?is=49&src=digi-online.ro&t=00000000000000000000000000000000&q=mq&s=digisport4&p=browser&pe=site
-#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/digisport-4.png" group-title="STIRI",[COLOR deeppink]Http.[/COLOR][COLOR deeppink]# 1[/COLOR]Digi Sport 4
-http://82.76.40.81/digiedge/digisport4elq/index.m3u8?is=49&src=digi-online.ro&t=00000000000000000000000000000000&q=lq&s=digisport4&p=browser&pe=site
-#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/digisport-4.png" group-title="STIRI",[COLOR deeppink]Http.[/COLOR][COLOR deeppink]# 1[/COLOR]Digi Sport 4
-http://82.76.40.81/digiedge/smil:digisport3.smil/playlist.m3u8?is=3&src=app&t=00000000000000000000000000000000
-#EXTINF:0 tvg-logo="https://evz.ro/uploads/2018-08/sigla-look-sport-tb900.jpg" group-title="STIRI",[COLOR deeppink]Http.[/COLOR][COLOR deeppink]# 1[/COLOR]LookSport
-http://alltvplay.ml/hlsjwt/db3fbbccd147d88521b718a429473712c80fb662-2928-0-fol1971-None-860146829-1580279029--rIK1qmd9JTT45mHJCI_YChIaM4iRKR6crPUzz9VPULM/index.m3u8
-#EXTINF:0,LOOKSPORT 2
-http://94.177.136.29:7478/play/a03j
-#EXTINF:0,LOOKSPORT 3
-http://94.177.136.29:7478/play/a03k
-#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/800px-Eurosport_1_HD.png" group-title="STIRI",[COLOR deeppink]Http.[/COLOR][COLOR deeppink]# 1[/COLOR]Eurosport 1
-http://82.76.40.81/digiedge2/smil:eurosport.smil/playlist.m3u8?is=31&src=app&t=00000000000000000000000000000000
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Logo_Telekom_Sport_1_%282017%29.svg/950px-Logo_Telekom_Sport_1_%282017%29.svg.png" group-title="STIRI",[COLOR deeppink]Http.[/COLOR][COLOR deeppink]# 1[/COLOR]Telekom Sport 1
-http://ok2.se:80/ff45F7U4LTT7lRRx6/1debF9UuLUYeXMsZJ/6668
-#EXTINF:#1 tvg-logo="http://kutuphane.balikesir.edu.tr/img/belgesel.png",[COLOR blue] ***  [/COLOR][COLOR red][B]  DOCUMENTARE [/B][/COLOR][COLOR red] ***[/COLOR]  
-http://0.0.0.0:12345
-#EXTINF:-1 tvg-ID="CBSReality.ro" tvg-name="RO: CBS REALITY" tvg-logo="https://iptvsensation.org/picons/cbsreality.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] CBS REALITY
-http://edge81.rdsnet.ro/digiedge3/cbsrealityehq/chunklist_w1543359106.m3u8?is=65&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1 tvg-ID="DiscoveryChannel.ro" tvg-name="RO: Discovery" tvg-logo="https://iptvsensation.org/picons/discovery.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Discovery
-http://82.76.40.81/digiedge2/smil:discovery.smil/playlist.m3u8?is=71&src=app&t=00000000000000000000000000000000
-#EXTINF:-1 tvg-ID="NatGeoWildHD.ro" tvg-name="RO: Nat Geo Wild" tvg-logo="https://iptvsensation.org/picons/natgeowild.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Nat Geo Wild
-http://82.76.40.81/digiedge2/nationalgeographicwildehq/index.m3u8?is=33&src=app&t=00000000000000000000000000000000
-#EXTINF:-1 tvg-ID="National Geographic" tvg-name="RO: National Geographic HD" tvg-logo="https://iptvsensation.org/logo/ro/NatGeo.ro.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] National Geographic HD
-http://82.76.40.81/digiedge2/smil:nationalgeographic.smil/playlist.m3u8?is=19&src=app&t=00000000000000000000000000000000
-#EXTINF:0 tvg-logo="http://stvron.com/canale/512/dtx.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]DTX (Discovery Turbo Xtra)
-http://94.177.136.29:7478/play/a03b
-#EXTINF:-1 tvg-id="" tvg-name="|RO| HISTORY" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/HISTORY.png" group-title="STIRI",[COLOR deeppink]Http.[/COLOR][COLOR red]# 1[/COLOR] HISTORY
-#EXTVLCOPT:network-caching=1000
-http://edge81.rdsnet.ro/digiedge2/historychannelehq/index.m3u8?is=20&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/history-2-canada.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]History Channel 2
-http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
-#EXTINF:-1 tvg-ID="Discovery Investigation" tvg-name="RO: Discovery ID" tvg-logo="https://iptvsensation.org/picons/discoveryid.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Discovery ID
-#EXTVLCOPT:network-caching=1000
-https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation-avc1_1000000=10-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|RO| ANIMAL PLANET HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/ANIMALPLANET.png" group-title="STIRI",[COLOR red]Http.[/COLOR][COLOR red]# 2[/COLOR] ANIMAL PLANET 
-http://78.157.230.19/streaming/animalplanet/364/gpu_tvrecw/playlist.m3u8
-#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/digianimal.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Digi Animal World
-#EXTVLCOPT:network-caching=1000
-http://edge81.rdsnet.ro/digiedge2/digianimalworldehq/index.m3u8?is=16&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Viasat_Explorer.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Viasat Explorer
-http://82.76.40.81/digiedge2/viasatexplorerehq/index.m3u8?is=40&src=app&t=00000000000000000000000000000000
-#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Viasat_History.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Viasat Nature   
-http://82.76.40.81/digiedge2/viasatnatureehq/index.m3u8?is=42&src=app&t=00000000000000000000000000000000
-#EXTINF:0 tvg-logo="https://tvlogo.files.wordpress.com/2010/03/11397-pv_tv.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Fishing and Hunting
-#EXTVLCOPT:network-caching=1000
-http://edge81.rdsnet.ro/digiedge3/fishingandhuntingehq/index.m3u8?is=92&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1 tvg-ID="E! Entertainment" tvg-name="RO: E! Entertainment" tvg-logo="https://iptvsensation.org/picons/eentertainment.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] E! Entertainment
-http://edge81.rdsnet.ro/digiedge2/eentertainmentehq/index.m3u8?is=73&src=app&t=00000000000000000000000000000000
-#EXTINF:-1 tvg-ID="ViasatHistory.ro" tvg-name="RO: Viasat History" tvg-logo="https://iptvsensation.org/logo/ro/ViasatHistory.ro.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Viasat History
-http://82.76.40.81/digiedge2/smil:viasathistory.smil/playlist.m3u8?is=41&src=app&t=00000000000000000000000000000000
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="STIRI",[COLOR red]Http.[/COLOR][COLOR red]# 2[/COLOR] BBC EARTH
-http://edge81.rdsnet.ro/digiedge2/bbcearthehq/index.m3u8?is=67&src=digi-online.&t=00000000000000000000000000000000
-#EXTINF:#1 tvg-logo="https://yt3.ggpht.com/-D_Dt4745g04/AAAAAAAAAAI/AAAAAAAAAAA/WDvmapj0Lic/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",[COLOR blue]          ***      [/COLOR][COLOR red][B]      MUZICA    [/B][/COLOR][COLOR red]       ***[/COLOR]  
-http://0.0.0.0:12348
-#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/download-1-.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Impact TV
-http://89.36.10.12:8080/
-
-http://188.35.9.5:10005/stolen/153a/imposter.rar
+#EXTINF:-1,⭐⭐⭐MIREASA⭐⭐⭐
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/51856
+#EXTINF:-1,⭐⭐⭐Mireasa Plus⭐⭐⭐
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/51857
+#EXTINF:-1,Antena 1 SD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/70429
+#EXTINF:-1,Antena 1 HD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9051
+#EXTINF:-1,Antena 1 FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/8970
+#EXTINF:-1,Antena 1 2K
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/8971
+#EXTINF:-1,Antena 1 4K
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/13180
+#EXTINF:-1,Antena 1 HDR (Net Bun)
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/70447
+#EXTINF:-1,Pro TV SD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/70428
+#EXTINF:-1,Pro TV HD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9048
+#EXTINF:-1,Pro TV FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/8968
+#EXTINF:-1,Pro TV 2K
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9394
+#EXTINF:-1,Pro Tv 4K
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/13181
+#EXTINF:-1,Pro TV HDR (Net Bun)
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/70448
+#EXTINF:-1,Pro TV FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/8969
+#EXTINF:-1,Kanal D SD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/70427
+#EXTINF:-1,Kanal D HD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9064
+#EXTINF:-1,Kanal D FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9395
+#EXTINF:-1,Kanal D 2K
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/8974
+#EXTINF:-1,Kanal D 4K
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/8975
+#EXTINF:-1,Kanal D HDR (Net Bun)
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/70449
+#EXTINF:-1,Kanal D2 HD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9062
+#EXTINF:-1,Kanal D2 FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/54195
+#EXTINF:-1,Kanal D2 HDR (Net Bun)
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/70494
+#EXTINF:-1,Digi 4K
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/8979
+#EXTINF:-1,Prima TV SD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9063
+#EXTINF:-1,Prima TV FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/24842
+#EXTINF:-1,Prima TV HDR (Net Bun)
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/70493
+#EXTINF:-1,Prima Comedy
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/31386
+#EXTINF:-1,TVR 1
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9058
+#EXTINF:-1,TVR 1 FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/8977
+#EXTINF:-1,TVR 2
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9059
+#EXTINF:-1,TVR 2 FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/8978
+#EXTINF:-1,TVR 3
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9060
+#EXTINF:-1,TVR 3 FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/31413
+#EXTINF:-1,TVR International
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9061
+#EXTINF:-1,ProTV International
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9049
+#EXTINF:-1,Antena 3 HD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9053
+#EXTINF:-1,Antena 3 FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/8973
+#EXTINF:-1,Antena 3 4K
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/31848
+#EXTINF:-1,Antena 3 HDR (Net Bun)
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/70491
+#EXTINF:-1,Antena Stars HD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9052
+#EXTINF:-1,Antena Stars FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/8972
+#EXTINF:-1,Antena Stars HDR (Net Bun)
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/70492
+#EXTINF:-1,CaTine Ro
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/54244
+#EXTINF:-1,Antena Comedy Play
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/54245
+#EXTINF:-1,Antena Monden
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/54246
+#EXTINF:-1,⚡⚡⚡ CANALE STIRI ⚡⚡⚡
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9194
+#EXTINF:-1,Digi 24
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9130
+#EXTINF:-1,Digi 24 HD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/8980
+#EXTINF:-1,Digi 24 FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/10872
+#EXTINF:-1,Digi 24 HDR (Net Bun)
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/70450
+#EXTINF:-1,Realitatea Plus
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9132
+#EXTINF:-1,Realitatea Plus HD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/37911
+#EXTINF:-1,RomaniaTV
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9131
+#EXTINF:-1,Romania Tv FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/54243
+#EXTINF:-1,B1 TV
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/37903
+#EXTINF:-1,B1 TV HD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9066
+#EXTINF:-1,Euronews RO
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/31410
+#EXTINF:-1,Euronews RO FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/32363
+#EXTINF:-1,Prima News FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/50130
+#EXTINF:-1,Global News Ro
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/53521
+#EXTINF:-1,ProTv News FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/28109
+#EXTINF:-1,AlephNews SmartTv
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/30277
+#EXTINF:-1,Aleph News
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/31381
+#EXTINF:-1,Aleph News FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/19324
+#EXTINF:-1,Aleph Business
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/31379
+#EXTINF:-1,Aleph Business FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/31380
+#EXTINF:-1,National TV
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9065
+#EXTINF:-1,National 24+
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/13585
+#EXTINF:-1,Privesc EU 
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/31403
+#EXTINF:-1,Realitatea Star HD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/31019
+#EXTINF:-1,Realitatea Sportiva
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/30450
+#EXTINF:-1,LinkPress Tv
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/30429
+#EXTINF:-1,RO Media Valencia
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/37899
+#EXTINF:-1,PrimaNews
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/37908
+#EXTINF:-1,Metropola Tv
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/26657
+#EXTINF:-1,⚡⚡⚡ CANALE SPORT ⚡⚡⚡
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9195
+#EXTINF:-1,TVR Sport FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/59935
+#EXTINF:-1,Digi Sport 1 4K
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/82437
+#EXTINF:-1,Digi Sport 1 HD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/82433
+#EXTINF:-1,Digi Sport 1 FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/82429
+#EXTINF:-1,Digi Sport 1 HDR (Net Bun)
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/82438
+#EXTINF:-1,Digi Sport 2 HD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/82434
+#EXTINF:-1,Digi Sport 2 FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/82430
+#EXTINF:-1,Digi Sport 2 HDR (Net Bun)
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/82439
+#EXTINF:-1,Digi Sport 3 HD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/82435
+#EXTINF:-1,Digi Sport 3 FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/82431
+#EXTINF:-1,Digi Sport 3 HDR (Net Bun)
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/82440
+#EXTINF:-1,Digi Sport 4 HD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/82436
+#EXTINF:-1,Digi Sport 4 FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/82432
+#EXTINF:-1,Digi Sport 4 HDR (Net Bun)
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/82441
+#EXTINF:-1,Eurosport 4K
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/17995
+#EXTINF:-1,EuroSport1 Romania FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/70382
+#EXTINF:-1,EuroSport 1 HD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/70387
+#EXTINF:-1,EuroSport 1 FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/70385
+#EXTINF:-1,EuroSport 2 HD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/70384
+#EXTINF:-1,EuroSport 2 FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/70388
+#EXTINF:-1,Prima 4K
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/19319
+#EXTINF:-1,Prima Sport 1 HD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9106
+#EXTINF:-1,Prima Sport 1 FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/31399
+#EXTINF:-1,Prima Sport 1 HDR (Net Bun)
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/70495
+#EXTINF:-1,Prima Sport 2 HD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9105
+#EXTINF:-1,Prima Sport 2 FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9003
+#EXTINF:-1,Prima Sport 2 HDR (Net Bun)
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/70496
+#EXTINF:-1,Prima Sport 3 HD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/30431
+#EXTINF:-1,Prima Sport 3 FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9005
+#EXTINF:-1,Prima Sport 3 HDR  (Net Bun)
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/70497
+#EXTINF:-1,Prima Sport 4 HD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/30430
+#EXTINF:-1,Prima Sport 4 FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9004
+#EXTINF:-1,Prima Sport 4 HDR (Net Bun)
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/70498
+#EXTINF:-1,Prima Sport 5 HD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/37928
+#EXTINF:-1,Prima Sport 5 FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/37842
+#EXTINF:-1,Prima Sport 5 HDR  (Net Bun)
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/70499
+#EXTINF:-1,VOYO SPORT ( DOAR MECI LIVE)
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/101462
+#EXTINF:-1,VOYO SPORT 2 ( DOAR MECI LIVE)
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/101463
+#EXTINF:-1,VOYO SPORT 3 ( DOAR MECI LIVE)
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/101464
+#EXTINF:-1,VOYO SPORT 4 (DOAR MECI LIVE)
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/101465
+#EXTINF:-1,VOYO SPORT 5 (DOAR MECI LIVE)
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/101466
+#EXTINF:-1,⭐⭐⭐Meci Voyo ⭐⭐⭐
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/101440
+#EXTINF:-1,Sport Extra FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/29052
+#EXTINF:-1,Pro Arena
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9104
+#EXTINF:-1,Pro Arena FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9006
+#EXTINF:-1,Trace Sports Star HD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/30384
+#EXTINF:-1,Motor Vision
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/58768
+#EXTINF:-1,FightBox
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9109
+#EXTINF:-1,⚡⚡⚡ CANALE FILME GENERALE ⚡⚡⚡
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9199
+#EXTINF:-1,Film Mania FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/70445
+#EXTINF:-1,SkyShowtime 1 FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/70412
+#EXTINF:-1,SkyShowtime 2 FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/70413
+#EXTINF:-1,HBO
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9067
+#EXTINF:-1,HBO FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/8983
+#EXTINF:-1,HBO 2
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9068
+#EXTINF:-1,HBO 2 FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/8984
+#EXTINF:-1,HBO 3
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9069
+#EXTINF:-1,HBO 3 FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/8985
+#EXTINF:-1,Cinemax
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9088
+#EXTINF:-1,Cinemax FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/8988
+#EXTINF:-1,Cinemax 2
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9089
+#EXTINF:-1,Cinemax 2 FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/31388
+#EXTINF:-1,AMC
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9077
+#EXTINF:-1,AMC FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/31382
+#EXTINF:-1,AXN
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9080
+#EXTINF:-1,AXN FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/8981
+#EXTINF:-1,AXN White
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9081
+#EXTINF:-1,AXN Black
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9082
+#EXTINF:-1,AXN Spin
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9083
+#EXTINF:-1,Film Now
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9070
+#EXTINF:-1,Film Now FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/8982
+#EXTINF:-1,Film Cafe
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9075
+#EXTINF:-1,Film Cafe FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/31396
+#EXTINF:-1,FilmBox
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9090
+#EXTINF:-1,FilmBox Family
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9091
+#EXTINF:-1,Filmbox Stars
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/31397
+#EXTINF:-1,FilmBox Premium
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9093
+#EXTINF:-1,FilmBox Extra HD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/8986
+#EXTINF:-1,BollywoodTV
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9084
+#EXTINF:-1,Bollyood Film
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/54111
+#EXTINF:-1,BollyoodTv FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/31383
+#EXTINF:-1,Bollyood Classic
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/31384
+#EXTINF:-1,Comedy Central
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9087
+#EXTINF:-1,Comedy Central FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/31389
+#EXTINF:-1,Epic Drama
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/30424
+#EXTINF:-1,Epic Drama FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/8987
+#EXTINF:-1,Acasa TV
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9074
+#EXTINF:-1,Acasa Tv FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/8976
+#EXTINF:-1,Acasa Gold
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9072
+#EXTINF:-1,Acasa Gold FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/31405
+#EXTINF:-1,Happy
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9078
+#EXTINF:-1,Happy FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/8989
+#EXTINF:-1,Pro Cinema
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9071
+#EXTINF:-1,Pro Cinema FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/31404
+#EXTINF:-1,Warner Tv
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/31415
+#EXTINF:-1,Warner TV HD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/37924
+#EXTINF:-1,TV1000
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9073
+#EXTINF:-1,TLC
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9120
+#EXTINF:-1,TLC FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/37925
+#EXTINF:-1,TDC
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9079
+#EXTINF:-1,TDC FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/8990
+#EXTINF:-1,Cinemaraton
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9094
+#EXTINF:-1,Cinemaraton HD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/31387
+#EXTINF:-1,Cinethronix
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9095
+#EXTINF:-1,Diva Universal
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9086
+#EXTINF:-1,Nostalgia Tv
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/74507
+#EXTINF:-1,E! Entertainment FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9016
+#EXTINF:-1,E! Enterteinment 
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/30423
+#EXTINF:-1,⚡⚡⚡ CANALE DOCUMENTARE ⚡⚡⚡
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9200
+#EXTINF:-1,Prima Food & Travel FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/70414
+#EXTINF:-1,Prima History
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/58648
+#EXTINF:-1,Discovery Channel
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/30421
+#EXTINF:-1,Discovery Channel FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9007
+#EXTINF:-1,Discovery Investigation
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9124
+#EXTINF:-1,Discovery Investigation FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/31861
+#EXTINF:-1,Digi Animal World
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/13583
+#EXTINF:-1,Digi Animal World FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/31390
+#EXTINF:-1,Digi World
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9114
+#EXTINF:-1,Digi World FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/31392
+#EXTINF:-1,Digi Life
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9113
+#EXTINF:-1,Digi Life FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/31391
+#EXTINF:-1,National Geographic
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9115
+#EXTINF:-1,National Geographic FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9010
+#EXTINF:-1,National Geographic Wild
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9116
+#EXTINF:-1,National Geographic Wild FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9011
+#EXTINF:-1,National Geograpghic People
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/37932
+#EXTINF:-1,Animal Planet
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9112
+#EXTINF:-1,Animal Planet FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9009
+#EXTINF:-1,Love Nature
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/37933
+#EXTINF:-1,Love Nature FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9008
+#EXTINF:-1,Viasat Explorer
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9117
+#EXTINF:-1,Viasat Explorer FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9012
+#EXTINF:-1,Viasat Nature
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9119
+#EXTINF:-1,Viasat Nature FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9013
+#EXTINF:-1,Viasat History
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9118
+#EXTINF:-1,Viasat History FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9014
+#EXTINF:-1,History Channel
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/30426
+#EXTINF:-1,History Channel FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9015
+#EXTINF:-1,Travel Channel
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9129
+#EXTINF:-1,Travel Channel HD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/31409
+#EXTINF:-1,Fishing & Hunting
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9123
+#EXTINF:-1,Fishing & Hunting HD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/37934
+#EXTINF:-1,Crime & Investigation
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9122
+#EXTINF:-1,DocuBox
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/37931
+#EXTINF:-1,DocuBox FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/21073
+#EXTINF:-1,Travel MIX FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9018
+#EXTINF:-1,Travel XP
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/37935
+#EXTINF:-1,Travel XP FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/30387
+#EXTINF:-1,BBC Earth
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/50192
+#EXTINF:-1,BBC Earth FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9017
+#EXTINF:-1,BBC First FHD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/30419
+#EXTINF:-1,CBS Reality
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/14439
+#EXTINF:-1,DaVinci Kids
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/37909
+#EXTINF:-1,DaVinci Learning HD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/14441
+#EXTINF:-1,HGTV
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9121
+#EXTINF:-1,HGTV HD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/37894
+#EXTINF:-1,Arcadia World HD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/30366
+#EXTINF:-1,Exploris Tv HD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/30372
+#EXTINF:-1,PaprikaTV
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9126
+#EXTINF:-1,Paprika Tv HD
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/31402
+#EXTINF:-1,Food Network
+http://update4.miicrosoft.es:80/hompi_gheorghe/MleLSPnx8j/9128
